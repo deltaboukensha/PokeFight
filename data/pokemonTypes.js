@@ -1,60 +1,56 @@
-const pokemonTypes = [
+[
     {
-        name: "normal"
+        "name": "Bug"
     },
     {
-        name: "fighting"
+        "name": "Dark"
     },
     {
-        name: "flying"
+        "name": "Dragon"
     },
     {
-        name: "poison"
+        "name": "Electric"
     },
     {
-        name: "ground"
+        "name": "Fairy"
     },
     {
-        name: "rock"
+        "name": "Fighting"
     },
     {
-        name: "bug"
+        "name": "Fire"
     },
     {
-        name: "ghost"
+        "name": "Flying"
     },
     {
-        name: "steel"
+        "name": "Ghost"
     },
     {
-        name: "fire"
+        "name": "Grass"
     },
     {
-        name: "water"
+        "name": "Ground"
     },
     {
-        name: "grass"
+        "name": "Ice"
     },
     {
-        name: "electric"
+        "name": "Normal"
     },
     {
-        name: "psychic"
+        "name": "Poison"
     },
     {
-        name: "ice"
+        "name": "Psychic"
     },
     {
-        name: "dragon"
+        "name": "Rock"
     },
     {
-        name: "dark"
+        "name": "Steel"
     },
     {
-        name: "fairy"
-    },
-];
-
-module.exports = {
-    pokemonTypes
-}
+        "name": "Water"
+    }
+]

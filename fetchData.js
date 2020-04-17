@@ -22,5 +22,5 @@ const runAsync = async () => {
 };
 
 runAsync()
+.catch(console.error)
 .then(() => process.exit(0))
-.catch(console.error);

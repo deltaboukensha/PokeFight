@@ -692,6 +692,7 @@ if(detectWidth() > 980) { googletag.cmd.push(function() { googletag.display('div
 <a target="_blank" href="https://gamepress.atlassian.net/servicedesk/customer/portals">Submit Feedback or Error</a>
 </div>
 </div>
+
 </div>
 <div class="">
 <div data-drupal-messages-fallback="" class="hidden"></div>
@@ -705,7 +706,7 @@ if(detectWidth() > 980) { googletag.cmd.push(function() { googletag.display('div
 <div class="paragraph--type--table-of-contents table-of-contents">
 <div class="field__label toc-label">Table of Contents</div>
 <ul id="toc-container">
- <li>
+<li>
 <a class="toc-item" href="#topic-175146">Type Chart Table</a>
 </li>
 <li>
@@ -1644,7 +1645,7 @@ if(detectWidth() <= 980) { googletag.cmd.push(function() { googletag.display('di
 <h2 class="top-content-brand">Latest Content</h2>
 <div class="latest-content-container">
 <p></p>
-<div class="views-element-container"><div class="field--name-field-featured-content-list view view-latest-featured-content view-id-latest_featured_content view-display-id-block_1 js-view-dom-id-76085ee9634e0a1c88e69705c00406d5da5ac293162ceb5981fa9fb73c8c86ec">
+<div class="views-element-container"><div class="field--name-field-featured-content-list view view-latest-featured-content view-id-latest_featured_content view-display-id-block_1 js-view-dom-id-03436a2de9ebe1d86d41e273b1fcd11414db6f895469ed42dc61b74e1c0621fe">
 <div class="view-content">
 <div class="views-row"><div class="views-field views-field-view-node"><span class="field-content"><a href="/pokemongo/niantic-announces-buddy-event">
 <div class="field__item ">
@@ -1823,24 +1824,24 @@ Legacy Pokemon Move List
 </a>
 </li>
 <li>
-<a href="/pokemongo/great-league-pvp-tier-list">
-<span class="pages-ranking-number ranking-number-3">3</span>
-<span class="pages-ranking-image">
-<img src="/pokemongo/sites/pokemongo/files/styles/80x40/public/2019-07/GreatLeague2.png?itok=2TILXI19">
-</span>
-<span class="pages-ranking-title">
-Great League PVP Tier List
-</span>
-</a>
-</li>
-<li>
 <a href="/pokemongo/pokemon-list">
-<span class="pages-ranking-number ranking-number-4">4</span>
+<span class="pages-ranking-number ranking-number-3">3</span>
 <span class="pages-ranking-image">
 <img src="/pokemongo/sites/pokemongo/files/styles/80x40/public/2018-08/Pokemon-List_1.png?itok=2eBQegJi">
 </span>
 <span class="pages-ranking-title">
 Pokemon List
+</span>
+</a>
+</li>
+<li>
+<a href="/pokemongo/great-league-pvp-tier-list">
+<span class="pages-ranking-number ranking-number-4">4</span>
+<span class="pages-ranking-image">
+<img src="/pokemongo/sites/pokemongo/files/styles/80x40/public/2019-07/GreatLeague2.png?itok=2TILXI19">
+</span>
+<span class="pages-ranking-title">
+Great League PVP Tier List
 </span>
 </a>
 </li>
@@ -1856,8 +1857,19 @@ Attackers Tier List
 </a>
 </li>
 <li>
-<a href="/pokemongo/trainer-battle-resource-list">
+<a href="/pokemongo/niantic-announces-buddy-event">
 <span class="pages-ranking-number ranking-number-6">6</span>
+<span class="pages-ranking-image">
+<img src="/pokemongo/sites/pokemongo/files/styles/80x40/public/2020-04/buddyup-april2020.jpg?itok=yD07WOlQ">
+</span>
+<span class="pages-ranking-title">
+Niantic Announces Buddy-Up Event
+</span>
+</a>
+</li>
+ <li>
+<a href="/pokemongo/trainer-battle-resource-list">
+<span class="pages-ranking-number ranking-number-7">7</span>
 <span class="pages-ranking-image">
 <img src="/pokemongo/sites/pokemongo/files/styles/80x40/public/2020-03/trainerresource_1.png?itok=4QJQZmwE">
 </span>
@@ -1868,23 +1880,12 @@ Trainer Battle Resource List
 </li>
 <li>
 <a href="/pokemongo/ultra-league-pvp-tier-list">
-<span class="pages-ranking-number ranking-number-7">7</span>
+<span class="pages-ranking-number ranking-number-8">8</span>
 <span class="pages-ranking-image">
 <img src="/pokemongo/sites/pokemongo/files/styles/80x40/public/2019-07/Ultraleague2_0.png?itok=EMxhp1Lz">
 </span>
 <span class="pages-ranking-title">
 Ultra League PVP Tier List
-</span>
-</a>
-</li>
-<li>
-<a href="/pokemongo/niantic-announces-buddy-event">
-<span class="pages-ranking-number ranking-number-8">8</span>
-<span class="pages-ranking-image">
-<img src="/pokemongo/sites/pokemongo/files/styles/80x40/public/2020-04/buddyup-april2020.jpg?itok=yD07WOlQ">
-</span>
-<span class="pages-ranking-title">
-Niantic Announces Buddy-Up Event
 </span>
 </a>
 </li>
@@ -1911,7 +1912,7 @@ GO Battle League Team Builds: Master League
 </a>
 </li>
 </ul>
-<div> <div class="view view-popular-pages view-id-popular_pages view-display-id-block_1 js-view-dom-id-638891c33ea911ea05e8ed11b5045ea1964ac3546fbb14fcb923f6a7482dc72c">
+<div> <div class="view view-popular-pages view-id-popular_pages view-display-id-block_1 js-view-dom-id-687d0134b189f9ce740c3ef0c40bc62b4e16573a50a38f2445af2dd8ae5f443f">
 <div class="view-content">
 </div>
 <div class="view-footer">
@@ -1965,7 +1966,7 @@ Togekiss
 <a href="/pokemongo/pokemon/143">
 <span class="pages-ranking-number ranking-number-3">3</span>
 <span class="pages-ranking-image">
-<img src="/pokemongo/sites/pokemongo/files/styles/thumbnail/public/2016-07/143.png?itok=vK7y1kgO">
+ <img src="/pokemongo/sites/pokemongo/files/styles/thumbnail/public/2016-07/143.png?itok=vK7y1kgO">
 </span>
 <span class="pages-ranking-title">
 Snorlax
@@ -1973,24 +1974,24 @@ Snorlax
 </a>
 </li>
 <li>
-<a href="/pokemongo/pokemon/376">
-<span class="pages-ranking-number ranking-number-4">4</span>
-<span class="pages-ranking-image">
-<img src="/pokemongo/sites/pokemongo/files/styles/thumbnail/public/2017-08/376_0.png?itok=psjZiSJs">
-</span>
-<span class="pages-ranking-title">
-Metagross
-</span>
-</a>
-</li>
-<li>
 <a href="/pokemongo/pokemon/149">
-<span class="pages-ranking-number ranking-number-5">5</span>
+<span class="pages-ranking-number ranking-number-4">4</span>
 <span class="pages-ranking-image">
 <img src="/pokemongo/sites/pokemongo/files/styles/thumbnail/public/2016-07/149.png?itok=v_iVa_vf">
 </span>
 <span class="pages-ranking-title">
 Dragonite
+</span>
+</a>
+</li>
+<li>
+<a href="/pokemongo/pokemon/376">
+<span class="pages-ranking-number ranking-number-5">5</span>
+<span class="pages-ranking-image">
+<img src="/pokemongo/sites/pokemongo/files/styles/thumbnail/public/2017-08/376_0.png?itok=psjZiSJs">
+</span>
+<span class="pages-ranking-title">
+Metagross
 </span>
 </a>
 </li>
@@ -2006,24 +2007,24 @@ Rhyperior
 </a>
 </li>
 <li>
-<a href="/pokemongo/pokemon/645">
-<span class="pages-ranking-number ranking-number-7">7</span>
-<span class="pages-ranking-image">
-<img src="/pokemongo/sites/pokemongo/files/styles/thumbnail/public/2019-06/645-incarnate_0.png?itok=46Em1LyJ">
-</span>
-<span class="pages-ranking-title">
-Landorus (Incarnate Forme)
-</span>
-</a>
-</li>
-<li>
 <a href="/pokemongo/pokemon/483">
-<span class="pages-ranking-number ranking-number-8">8</span>
+<span class="pages-ranking-number ranking-number-7">7</span>
 <span class="pages-ranking-image">
 <img src="/pokemongo/sites/pokemongo/files/styles/thumbnail/public/2018-02/483Dialga_0.png?itok=bftSqLV7">
 </span>
 <span class="pages-ranking-title">
 Dialga
+</span>
+</a>
+</li>
+<li>
+<a href="/pokemongo/pokemon/645">
+<span class="pages-ranking-number ranking-number-8">8</span>
+<span class="pages-ranking-image">
+<img src="/pokemongo/sites/pokemongo/files/styles/thumbnail/public/2019-06/645-incarnate_0.png?itok=46Em1LyJ">
+</span>
+<span class="pages-ranking-title">
+Landorus (Incarnate Forme)
 </span>
 </a>
 </li>
@@ -2039,18 +2040,18 @@ Garchomp
 </a>
 </li>
 <li>
-<a href="/pokemongo/pokemon/809">
+<a href="/pokemongo/pokemon/150">
 <span class="pages-ranking-number ranking-number-10">10</span>
 <span class="pages-ranking-image">
-<img src="/pokemongo/sites/pokemongo/files/styles/thumbnail/public/2019-07/809.png?itok=4CI7HOJd">
+<img src="/pokemongo/sites/pokemongo/files/styles/thumbnail/public/2016-07/150.png?itok=UHqAsnLy">
 </span>
 <span class="pages-ranking-title">
-Melmetal
+Mewtwo
 </span>
 </a>
 </li>
 </ul>
-<div> <div class="view view-popular-pages view-id-popular_pages view-display-id-block_3 js-view-dom-id-f0206480bb33cddf2e7ee7939c9e951758f0ffcb9b27e162eddbe3e711a96d65">
+<div> <div class="view view-popular-pages view-id-popular_pages view-display-id-block_3 js-view-dom-id-bd0b6e4e6dc84a8c57eb91bfbde8c4fa91dbec06ae8aeb77a85f194dece9d943">
 <div class="view-content">
 </div>
 <div class="view-footer">
@@ -2189,7 +2190,7 @@ So, I realized that I was missing a lot…</div>
 <footer id="site-footer">
 <div class="outer-wrapper">
 <section class="footer-top">
- 
+
 <div id="div-ad-PokemonGo_Desktop_728x90_BTF">
 <!--<script type="text/javascript">
 if(detectWidth() > 980) { googletag.cmd.push(function() { googletag.display('div-ad-PokemonGo_Desktop_728x90_BTF'); }); }
@@ -2223,6 +2224,6 @@ if(detectWidth() > 980) { googletag.cmd.push(function() { googletag.display('div
 </div>
 <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/pokemongo\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/229351","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"classy\/base,classy\/messages,core\/drupal.collapse,core\/html5shiv,core\/normalize,gamepressbase\/global-scripts,gamepressbase\/global-styling,google_analytics\/google_analytics,main\/global-scripts,main\/global-styling,main\/js-header,node\/drupal.node,paragraphs\/drupal.paragraphs.unpublished,search_api_autocomplete\/search_api_autocomplete,system\/base,views\/views.module","theme":"gamepressbase","theme_token":null},"ajaxTrustedUrl":{"\/pokemongo\/search":true},"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":true},"search_api_autocomplete":{"site_search":{"auto_submit":true}},"user":{"uid":0,"permissionsHash":"368d822763eec60892267d3454470dac313f7299cd86d5b7835c7839ea8096b4"}}</script>
 <!--<script src="/pokemongo/sites/pokemongo/files/js/js_VjEP2uZxXPt0X-cZhObvX49JEsym7hxeS1Rwp63Jqtg.js" type="text/javascript"></script>-->
-<!--<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"48befe3114","applicationID":"56773492","transactionName":"MQdVN0FSWRVSAhIKWghNdgBHWlgIHBEHBFA5AVYAW1Y=","queueTime":0,"applicationTime":30,"atts":"HUBWQQlIShs=","errorBeacon":"bam.nr-data.net","agent":""}</script>-->
+<!--<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"48befe3114","applicationID":"56773492","transactionName":"MQdVN0FSWRVSAhIKWghNdgBHWlgIHBEHBFA5AVYAW1Y=","queueTime":0,"applicationTime":22,"atts":"HUBWQQlIShs=","errorBeacon":"bam.nr-data.net","agent":""}</script>-->
 
 </body></html>
