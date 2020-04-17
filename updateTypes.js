@@ -4,7 +4,7 @@ const puppeteer = require("puppeteer");
 const runAsync = async () => {
     var pageData = fs.readFileSync("./data/pokemon-go-type-table.txt", "utf-8")
     const browser = await puppeteer.launch({
-        headless: true
+        headless: false
     });
     const page = await browser.newPage();
     await page.setContent(pageData);
@@ -32,7 +32,7 @@ const runAsync = async () => {
         return list;
     });
 
-    fs.writeFileSync(`./data/pokemonTypes.js`, JSON.stringify(evalResult, null, 4), "utf-8");
+    fs.writeFileSync(`./data/pokemonTypes.json`, JSON.stringify(evalResult, null, 4), "utf-8");
     await browser.close();
 };
 
