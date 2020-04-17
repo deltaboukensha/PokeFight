@@ -1,0 +1,1657 @@
+<!DOCTYPE html><html xml:lang="en" lang="en"><head>
+	<!--
+	  ___                          _  _       _                      _
+	 / __| __ _  _ __   ___  _ _  | \| | ___ | |_ __ __ __ ___  _ _ | |__
+	| (_ |/ _` || '  \ / -_)| '_| | .` |/ -_)|  _|\ V  V // _ \| '_|| / /
+	 \___|\__,_||_|_|_|\___||_|   |_|\_|\___| \__| \_/\_/ \___/|_|  |_\_\
+
+	Copyright 2020. All rights reserved.
+	We're hiring! http://www.gamer-network.net/jobs
+	-->
+
+				<base href="https://www.eurogamer.net/">
+				<title>Pokémon Go Type chart, Type effectiveness and weakness explained • Eurogamer.net</title>
+
+					<link rel="canonical" href="https://www.eurogamer.net/articles/2018-12-21-pokemon-go-type-chart-effectiveness-weaknesses">
+		
+		
+		
+						<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+							<meta name="twitter:card" content="summary_large_image">
+							<meta name="twitter:site" content="@eurogamer">
+							<meta name="twitter:creator" content="@ChrisTapsell">
+							<meta name="twitter:title" content="Pokémon Go Type chart, Type effectiveness and weakness explained">
+							<meta name="twitter:url" content="https://www.eurogamer.net/articles/2018-12-21-pokemon-go-type-chart-effectiveness-weaknesses">
+							<meta name="twitter:image:src" content="https://d2skuhm0vrry40.cloudfront.net/2015/articles/1/8/4/7/8/0/6/pokemon-battle-chart-type-effectiveness-weaknesses-1470236210043.jpg/EG11/resize/1200x-1/pokemon-battle-chart-type-effectiveness-weaknesses-1470236210043.jpg">
+							<meta property="og:site_name" content="Eurogamer.net">
+							<meta property="fb:app_id" content="156247124404264">
+							<meta property="fb:pages" content="42657691753">
+							<meta property="og:title" content="Pokémon Go Type chart, Type effectiveness and weakness explained">
+							<meta property="og:url" content="https://www.eurogamer.net/articles/2018-12-21-pokemon-go-type-chart-effectiveness-weaknesses">
+							<meta property="og:type" content="article">
+							<meta property="article:published_time" content="2018-12-21T15:01:00+00:00">
+							<meta property="article:modified_time" content="2019-08-01T14:01:24+01:00">
+							<meta property="og:image" content="https://d2skuhm0vrry40.cloudfront.net/2015/articles/1/8/4/7/8/0/6/pokemon-battle-chart-type-effectiveness-weaknesses-1470236210043.jpg/EG11/resize/1200x-1/pokemon-battle-chart-type-effectiveness-weaknesses-1470236210043.jpg">
+							<meta property="og:image:width" content="1200">
+							<meta property="og:image:height" content="798">
+			<link rel="stylesheet" type="text/css" href="css/pages/article.css?v20200416111655" media="screen">
+<link rel="stylesheet" type="text/css" href="css/devices/hd.css?v20200416111655" media="screen">
+<link rel="stylesheet" type="text/css" href="vendor/font-awesome/css/font-awesome.min.css?v20200416111655" media="screen">
+			<link rel="apple-touch-icon" href="img/favicons/apple-touch-icon-152x152.png">
+					<link rel="shortcut icon" href="https://www.eurogamer.net/favicon.ico">
+		
+					<link rel="feed" title="RSS" href="https://www.eurogamer.net/?format=rss">
+		
+		<link rel="preconnect" href="https://www.google-analytics.com">
+
+				<script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/zItNOfzbrqVGbb4QFYpPpcrw/recaptcha__en.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+					(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+					})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			
+				function gaSetup() {
+					ga('require', 'displayfeatures');
+					ga('require', 'linkid', 'linkid.js');
+			
+					ga('set', 'dimension1', 'guide');
+				
+					ga('set', 'dimension3', 'MOBILE,IPHONE,IPAD,ANDROID');
+				
+					ga('set', 'dimension4', 'Chris Tapsell');
+				
+					ga('set', 'dimension5', '0');
+				
+					ga('set', 'dimension7', 'hd');
+				}
+					function gaWrapper() {
+						if (window.gaDone) return;
+						ga('create', {"trackingId":"UA-12091157-1","cookieDomain":".eurogamer.net"});
+						gaSetup();
+						ga('send', 'pageview');
+						window.gaDone = true;
+					}
+			
+				function gaAnonWrapper() {
+					if (window.gaDone) return;
+					ga('create', {"trackingId":"UA-12091157-1","cookieDomain":".eurogamer.net","storage":"none","clientId":"anonymous"});
+					gaSetup();
+					ga('set', 'anonymizeIp', true);
+					ga('send', 'pageview');
+					window.gaDone = true;
+				}
+			</script>
+<script src="vendor/jquery/dist/jquery.min.js?v20200416111655"></script>
+<script src="vendor/jquery-jsonp/src/jquery.jsonp.js?v20200416111655"></script>
+<script src="scripts/jquery.viewport.js?v20200416111655"></script>
+<script src="scripts/videoPlayer.js?v20200416111655" defer="defer"></script>
+<script src="scripts/NewsletterSubscriber.js?v20200416111655" defer="defer"></script>
+<script src="scripts/FollowButtons.js?v20200416111655" defer="defer"></script>
+<script src="//cdn.gamer-network.net/plugins/dfp/async.dfp.1.1.25.min.js"></script>
+<script src="vendor/js-cookie/src/js.cookie.js?v20200416111655" defer="defer"></script>
+<script src="scripts/LanguageBar.js?v20200416111655" defer="defer"></script>
+<script src="scripts/LazyCovers.js?v20200416111655" defer="defer"></script>
+<script src="scripts/SidebarAds.js?v20200416111655" defer="defer"></script>
+<script src="scripts/FacebookLogin.js?v20200416111655" defer="defer"></script>
+<script src="scripts/CommentToolbar.js?v20200416111655" defer="defer"></script>
+<script src="scripts/Comments.js?v20200416111655" defer="defer"></script>
+<script src="https://cdn.gamer-network.net/2020/scripts/edmonds/1.3.3/edmonds.js?v20200416111655" defer="defer"></script>
+<script src="scripts/SocialListener.js?v20200416111655" defer="defer"></script>
+<script src="scripts/LazyImages.js?v20200416111655" defer="defer"></script>
+	<link type="text/css" href="https://cdn.cookielaw.org/skins/5.14.0/default_flat_bottom_two_button_black/v2/css/optanon.css" rel="stylesheet"><style>#optanon ul#optanon-menu li { background-color: #E1E9ED !important }#optanon ul#optanon-menu li.menu-item-selected { background-color: #E1E9ED !important }#optanon #optanon-popup-wrapper .optanon-white-button-middle { background-color: #64B555 !important }.optanon-alert-box-wrapper .optanon-alert-box-button-middle { background-color: #64B555 !important; border-color: #64B555 !important; }#optanon #optanon-popup-wrapper .optanon-white-button-middle button { color: #ffffff !important }.optanon-alert-box-wrapper .optanon-alert-box-button-middle button { color: #ffffff !important }#optanon #optanon-popup-bottom { background-color: #E1E9ED !important }#optanon.modern #optanon-popup-top, #optanon.modern #optanon-popup-body-left-shading { background-color: #E1E9ED !important }.optanon-alert-box-wrapper { background-color:#e1e9ed !important }.optanon-alert-box-wrapper .optanon-alert-box-bg p { color:#002351 !important }#optanon, #optanon *, #optanon div, #optanon span, #optanon ul, #optanon li, #optanon a, #optanon p, .optanon-alert-box-wrapper * {
+font-family: Gibson,sans-serif;
+outline: none;
+}
+.optanon-alert-box-wrapper .optanon-alert-box-bg p.optanon-alert-box-title {
+    font-size: 20px;
+}
+.optanon-alert-box-wrapper .optanon-alert-box-button-middle {
+    padding: 0;
+}
+.optanon-alert-box-wrapper .optanon-alert-box-button-middle button {
+    padding: 1rem 1.5rem;
+    width: 100%;
+    text-align: center;
+}
+.optanon-alert-box-wrapper .optanon-alert-box-bg p {
+    font-size: 16px;
+    line-height: 1.4;
+}
+.optanon-alert-box-wrapper .optanon-alert-box-button-middle button.optanon-allow-all {
+    font-size: 16px;
+}
+.optanon-alert-box-wrapper .banner-content .banner-policy-link {
+    color: #000000;
+}
+.optanon-alert-box-wrapper {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    min-height: 10rem;
+    max-height: 35rem;
+    height: 372px;
+    width: 592px;
+    border-radius: 3px;
+}
+.optanon-alert-box-wrapper .optanon-alert-box-body {
+    margin: 40px 40px 24px;
+}
+.optanon-alert-box-wrapper .optanon-alert-box-button-container {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    border-bottom: none;
+    position: relative;
+    top: auto;
+    right: auto;
+    margin-top: 0;
+}
+.optanon-alert-box-wrapper .optanon-alert-box-button.optanon-button-allow {
+    width: 200px;
+    padding: 0;
+    border-radius: 2px;
+    text-align: center;
+    margin: auto;
+    background-color: #6cc04a;
+    float: none;
+}
+.optanon-alert-box-wrapper .optanon-alert-box-button.optanon-button-more {
+    float: none;
+    margin: 20px 0 0 0;
+}
+.optanon-alert-box-wrapper .optanon-button-more .optanon-alert-box-button-middle {
+    text-align: center;
+    padding: 0;
+}
+.optanon-alert-box-wrapper .optanon-button-more .optanon-alert-box-button-middle button {
+    color: #000000 !important;
+    font-weight: normal;
+    text-decoration: underline;
+    border: 0;
+    font-size: 16px;
+    padding: 0;
+}
+.optanon-alert-box-wrapper .optanon-button-more .optanon-alert-box-button-middle button:before {
+    display: none;
+}
+.optanon-alert-box-wrapper .optanon-alert-box-button-container {
+    border-bottom: none;
+}
+
+@media only screen and (max-width: 47em) {
+    .optanon-alert-box-bg .optanon-alert-box-button-container {
+        padding-right: 0;
+    }
+    .optanon-alert-box-wrapper .optanon-alert-box-button {
+        display: block;
+    }
+    .optanon-alert-box-wrapper .optanon-alert-box-body {
+    margin: 0 20px 20px 20px;
+}
+    .optanon-alert-box-wrapper {
+        width: 90%;
+        height: auto;
+        max-height: none;
+        bottom: auto!important;
+        min-height: auto;
+    }
+    .optanon-alert-box-wrapper .optanon-alert-box-bottom-padding {
+        padding-bottom: 20px;
+    }
+}</style><script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script><link rel="stylesheet" type="text/css" href="https://cdn.gamer-network.net/2020/scripts/edmonds/1.3.3/edmonds.css?v20200416111655"></head>
+		<body id="theTop">
+		
+							<div id="fb-root"></div>
+			<script>
+				// For login with Facebook functionality
+				function appendFacebookSDK() {
+					window.fbAsyncInit = function () {
+						FB.init({
+							appId: '156247124404264',
+							version: 'v2.7',
+							channelUrl: '/channel.html',
+							status: true,
+							cookie: true,
+							xfbml: true,
+							oauth: true
+						});
+					};
+
+					// Load the SDK Asynchronously
+					(function (d) {
+						var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+						if (d.getElementById(id)) {
+							return;
+						}
+						js = d.createElement('script');
+						js.id = id;
+						js.async = true;
+						js.onload = function () {
+							if (typeof runFacebookLogin == 'function') {
+								runFacebookLogin();
+							}
+							if (typeof runFacebookRegistrationLogin == 'function') {
+								runFacebookRegistrationLogin();
+							}
+						};
+
+												js.src = "//connect.facebook.net/en_GB/all.js";
+						ref.parentNode.insertBefore(js, ref);
+					}(document));
+				}
+			</script>
+		
+					
+			<header class="desktop-header">
+
+				<div class="container-1260 with-inside-padding">
+					<a href="/"><img src="https://d2skuhm0vrry40.cloudfront.net/2018/eg12/EG-Logo-net.png/EG11/resize/-1x92/format/png/logo.png?v20200416111655" class="logo" alt="Eurogamer.net"></a>
+													<div class="account signed-out">
+									<button class="button" data-action="launch-sign-in-overlay">Sign in / Create an account</button>
+							</div>
+						</div>
+
+				<nav>
+					<div class="primary">
+						<div class="container-1260 with-inside-padding">
+															<a href="/pc">PC</a>
+															<a href="/ps4">PlayStation 4</a>
+															<a href="/xboxone">Xbox One</a>
+															<a href="/switch">Switch</a>
+															<a href="/digitalfoundry">Digital Foundry</a>
+															<a href="/news">News</a>
+															<a href="/reviews">Reviews</a>
+															<a href="/videos">Videos</a>
+															<a href="/features">Features</a>
+															<a href="/guides">Guides</a>
+																					<div class="search">
+					<form action="search.php" method="get">
+													<label for="header-search"><i class="fa fa-search" title="Search"></i></label>
+												<input type="text" name="q" id="header-search" placeholder="Search">
+					</form>
+				</div>
+											</div>
+					</div>
+
+					<div class="secondary">
+						<div class="container-1260 with-inside-padding">
+															<span>Highlights</span>
+																	<a href="/deals">Deals</a>
+																	<a href="/forum">Forum</a>
+																	<a href="/release-dates">Release dates</a>
+															
+															<a href="https://www.eurogamer.net/articles/final-fantasy-7-all-weapon-ability-list-best-locations-7024">Final Fantasy 7 all weapon locations</a>
+															<a href="https://www.eurogamer.net/articles/final-fantasy-7-remake-dress-choices-cloud-tifa-aerith-nines-7024">Final Fantasy 7 dresses</a>
+															<a href="https://www.eurogamer.net/articles/pokemon-go-remote-raids-limitations-pass-7002">Pokémon Go Remote Raids</a>
+													</div>
+					</div>
+				</nav>
+			</header>
+				
+		<div id="browserMaster" class="hd">
+
+			<div id="page-wrapper">
+
+				
+																																					<div id="leaderboard" class="advert leaderboard">
+											<div class="collapsible advertContainer" data-dfp-id="EGNET_LB_1" data-dfp-sizes="728x90, 960x160, 960x250, 970x250, 1260x110, 1260x160, 1260x200, 1260x250" data-dfp-targeting="site=eurogamer.net,position=atf" id="div-ga-EGNET_LB_1"></div>										</div>
+									
+									
+																	
+							
+				<main class="document-wrapper">
+
+					<div class="document">
+						<div class="main ">
+							
+			
+			<article class="article">
+
+				
+		    
+			<header class="article-header ">
+
+				
+				
+				
+				<h1 class="title">Pokémon Go Type chart, Type effectiveness and weakness&nbsp;explained	</h1>
+
+									<p class="strapline">
+												Calculate the damage for any matchup with our Type&nbsp;Chart.					</p>
+				
+				<div class="metadata">
+					<div class="author-name">
+												<strong class="feature-type">Guide</strong>
+																			by																							Chris Tapsell, Staff Writer																		</div>
+
+											<div class="social">
+														<a href="//www.facebook.com/sharer.php?u=https://www.eurogamer.net/articles/2018-12-21-pokemon-go-type-chart-effectiveness-weaknesses" data-type="facebook" class="button circle colour-facebook" rel="nofollow"><i class="fa fa-facebook"></i></a>
+							<a href="//twitter.com/intent/tweet?text=Pok%E9mon+Go+Type+chart%2C+Type+effectiveness+and+weakness+explained+https://www.eurogamer.net/articles/2018-12-21-pokemon-go-type-chart-effectiveness-weaknesses" data-type="twitter" class="button circle colour-twitter" rel="nofollow"><i class="fa fa-twitter"></i></a>
+							<a href="//www.reddit.com/submit?url=https://www.eurogamer.net/articles/2018-12-21-pokemon-go-type-chart-effectiveness-weaknesses&amp;title=Pok%E9mon+Go+Type+chart%2C+Type+effectiveness+and+weakness+explained" data-type="reddit" class="button circle colour-reddit" rel="nofollow"><i class="fa fa-reddit-alien"></i></a>
+						</div>
+					
+					<div class="date">
+													Updated on 							<span itemprop="dateModified" content="2019-08-01T14:01:24+01:00">1 August 2019</span>
+											</div>
+
+				</div>
+
+
+							</header>
+
+		
+				<div class="body">
+
+					
+					
+					
+											<div class="desktop-mpu">
+							<div class="collapsible advertContainer" data-dfp-id="EGNET_MPU_1" data-dfp-sizes="300x250" data-dfp-targeting="site=eurogamer.net,position=atf" id="div-ga-EGNET_MPU_1" data-dfp-collapse="true"></div>						</div>
+					
+					
+					
+<section class=""><p><strong>Type Chart</strong> methods of representing <strong>Type effectiveness</strong> have been popular since long before Pokémon Go, with all of the core Pokémon games revolving around them.</p>
+  <eg-promoted-link char-count="10"></eg-promoted-link><p>In brief, Pokémon types dictate whether one Pokémon is either strong or weak - super effective or not very effective - against another, dealing additional or reduced damage as a result - and receiving additional or reduced damamage - as a result.</p>
+  <eg-promoted-link char-count="246"></eg-promoted-link><p>The standard Type chart that has evolved through the different generations will be like a second language to long-term Pokémon fans, but to newcomers it can appear too daunting to even know where to begin, so with that in mind we've put together a type chart of our own, as well as an explanation of how Type effectivness works and how to plan around it, just below.</p>
+  <eg-promoted-link char-count="366"></eg-promoted-link></section><section class=""><h2>Type chart, effectiveness and weakness explained in Pokémon Go</h2><p>Pokémon Go's Types are exactly the same as those in the main Pokémon games, but the effect of those type matchups is slightly different: in brief, things like effective or resisted attacks have slightly different multipliers to the main Pokémon games - although a December 2018 update brought them slightly closer in line.</p><eg-promoted-link char-count="322"></eg-promoted-link><p>Here's a Pokémon Go type chart to get you started on what's effective against what.</p><eg-promoted-link char-count="83"></eg-promoted-link><div class="table-wrapper"><table class=" "><thead><tr><th>Type</th><th>Strong Against</th><th>Weak Against</th><th>Resistant To</th><th>Vulnerable To</th>
+</tr></thead><tbody><tr class="row1 "><td><strong>Normal</strong></td><td></td><td>Rock, Ghost, Steel</td><td>Ghost</td><td>Fighting</td></tr><tr class="row0 "><td><strong>Fighting</strong></td><td>Normal, Rock, Steel, Ice, Dark</td><td>Flying, Poison, Psychic, Bug, Ghost, Fairy</td><td>Rock, Bug, Dark</td><td>Flying, Psychic, Fairy</td></tr><tr class="row1 "><td><strong>Flying</strong></td><td>Fighting, Bug, Grass</td><td>Rock, Steel, Electric</td><td>Fighting, Ground, Bug, Grass</td><td>Rock, Electric, Ice</td></tr><tr class="row0 "><td><strong>Poison</strong></td><td>Grass, Fairy</td><td>Poison, Ground, Rock, Ghost, Steel</td><td>Fighting, Poison, Grass, Fairy</td><td>Ground, Psychic</td></tr><tr class="row1 "><td><strong>Ground</strong></td><td>Poison, Rock, Steel, Fire, Electric</td><td>Flying, Bug, Grass</td><td>Poison, Rock, Electric</td><td>Water, Grass, Ice</td></tr><tr class="row0 "><td><strong>Rock</strong></td><td>Flying, Bug, Fire, Ice</td><td>Fighting, Ground, Steel</td><td>Normal, Flying, Poison, Fire</td><td>Fighting, Ground, Steel, Water, Grass</td></tr><tr class="row1 "><td><strong>Bug</strong></td><td>Grass, Psychic, Dark</td><td>Fighting, Flying, Poison, Ghost, Steel, Fire, Fairy</td><td>Fighting, Ground, Grass</td><td>Flying, Rock, Fire</td></tr><tr class="row0 "><td><strong>Ghost</strong></td><td>Ghost, Psychic</td><td>Normal, Dark</td><td>Normal, Fighting, Poison, Bug</td><td>Ghost, Dark</td></tr><tr class="row1 "><td><strong>Steel</strong></td><td>Rock, Ice, Fairy</td><td>Steel, Fire, Water, Electric</td><td>Normal, Flying, Poison, Rock, Bug, Steel, Grass, Psychic, Ice, Dragon, Fairy</td><td>Fighting, Ground, Fire</td></tr><tr class="row0 "><td><strong>Fire</strong></td><td>Bug, Steel, Grass, Ice</td><td>Rock, Fire, Water, Dragon</td><td>Bug, Steel, Fire, Grass, Ice</td><td>Ground, Rock, Water</td></tr><tr class="row1 "><td><strong>Water</strong></td><td>Ground, Rock, Fire</td><td>Water, Grass, Dragon</td><td>Steel, Fire, Water, Ice</td><td>Grass, Electric</td></tr><tr class="row0 "><td><strong>Grass</strong></td><td>Ground, Rock, Water</td><td>Flying, Poison, Bug, Steel, Fire, Grass, Dragon</td><td>Ground, Water, Grass, Electric</td><td>Flying, Poison, Bug, Fire, Ice</td></tr><tr class="row1 "><td><strong>Electric</strong></td><td>Flying, Water</td><td>Ground, Grass, Electric, Dragon</td><td>Flying, Steel, Electric</td><td>Ground</td></tr><tr class="row0 "><td><strong>Psychic</strong></td><td>Fighting, Poison</td><td>Steel, Psychic, Dark</td><td>Fighting, Psychic</td><td>Bug, Ghost, Dark</td></tr><tr class="row1 "><td><strong>Ice</strong></td><td>Flying, Ground, Grass, Dragon</td><td>Steel, Fire, Water, Ice</td><td>Ice</td><td>Fighting, Rock, Steel, Fire</td></tr><tr class="row0 "><td><strong>Dragon</strong></td><td>Dragon</td><td>Steel, Fairy</td><td>Fire, Water, Grass, Electric</td><td>Ice, Dragon, Fairy</td></tr><tr class="row1 "><td><strong>Fairy</strong></td><td>Fighting, Dragon, Dark</td><td>Poison, Steel, Fire</td><td>Fighting, Bug, Dragon, Dark</td><td>Poison, Steel</td></tr><tr class="row0 "><td><strong>Dark</strong></td><td>Ghost, Psychic</td><td>Fighting, Dark, Fairy</td><td>Ghost, Psychic, Dark</td><td>Fighting, Bug, Fairy</td></tr></tbody></table></div>
+<!-- f#11:start -->
+<hr><p><i>
+
+Pokémon Go in 2020 continues to add new features, such the arrival of the <a type="int" href="https://www.eurogamer.net/articles/2020-01-28-pokemon-go-battle-league-rewards-ranks-seasons-7002">Go Battle League</a> - which is currently highlighting the <a type="int" href="https://www.eurogamer.net/articles/pokemon-go-master-league-recommendations-7002">Master League</a> - and soon, <a type="int" href="https://www.eurogamer.net/articles/2020-02-11-pokemon-go-clone-pokemon-list-7002">Clone Pokémon</a>.
+
+We've also recently had the <a type="int" href="https://www.eurogamer.net/articles/2019-12-19-pokemon-go-buddy-adventure-play-excited-6002">Buddy Adventure</a> feature, which introduces a variety of perks - including finding <a type="int" href="https://www.eurogamer.net/articles/2020-01-09-pokemon-go-souvenirs-7002">Souvenirs</a> - as well as a new <a type="int" href="https://www.eurogamer.net/articles/2018-09-06-pokemon-go-trading-requirements-special-trades-how-to-trade-5392">trade evolution</a> feature.
+
+2019 saw the release of the first <a type="int" href="https://www.eurogamer.net/articles/2019-07-15-pokemon-go-gen-5-pokemon-list-black-white-6002">Gen 5 Pokémon</a>, along with new <a type="int" href="https://www.eurogamer.net/articles/2019-06-03-pokemon-go-region-exclusive-pokemon-locations-list">regional exclusive Pokémon</a>, <a type="int" href="https://www.eurogamer.net/articles/2019-04-29-pokemon-go-eggs-chart-hatching-2km-5km-7km-10km-eggs">Egg charts</a>, and the introduction of the <a type="int" href="https://www.eurogamer.net/articles/2019-09-11-pokemon-go-unova-stone-6002">Unova Stone</a>.
+
+Pokemon Go also sees regular events - including weekly <a type="int" href="https://www.eurogamer.net/articles/pokemon-go-spotlight-hour-featured-pokemon-bonus-7002">Spotlight Hour</a> evenings, monthly <a type="int" href="https://www.eurogamer.net/articles/2019-06-05-pokemon-go-field-research-tasks-special-research-breakthroughs-6002">Field Research rewards</a> and <a type="int" href="https://www.eurogamer.net/articles/2019-11-21-pokemon-go-community-day-time-list-moves-6002">Pokémon Go Community Day</a>,  plus a new <a type="int" href="https://www.eurogamer.net/articles/2019-11-08-pokemon-go-giovanni-rewards-legendary-shadow-pokemon-6002">Giovanni counters</a> quest - the latest being <a type="int" href="https://www.eurogamer.net/articles/2020-03-02-pokemon-go-the-shadowy-threat-grows-quest-tasks-rewards-7002">The Shadowy Threat Grows</a>. There is also the gradual arrival of new <a type="int" href="https://www.eurogamer.net/articles/pokemon-go-promo-codes-list-how-to-redeem-ios-android-4819">Promo Codes to redeem</a>, too.
+
+</i></p>
+
+<hr><!-- f#11:end --></section><section class=""><h2>Pokémon Go type effectiveness changes compared to other Pokémon games</h2>
+  <p>As you may have noticed, there are also no Type immunities in Pokémon Go, unlike in the main series. But that's not the end of it. The immunities removed are:</p>
+  <eg-promoted-link char-count="158"></eg-promoted-link><ul><li>Ground immune to Electric</li>
+    <li>Flying immune to Ground</li>
+    <li>Ghost immune to Normal and Fighting </li>
+    <li>Normal and Fighting immune to Ghost</li>
+    <li>Steel immune to Poison</li>
+    <li>Dark immune to Psychic</li>
+    <li>Fairy immune to Dragon</li>
+  </ul><p>Instead of a total immunity to damage, these initially worked the same as simple resitances. Now, however, they've been tweaked to form another tier of resistance, with the defending Pokémon that would normally be immune taking just 0.39 times the amount of damage it normally would - in other words, type immunity roughly cuts the amount of damage received to about a third.</p>
+  <eg-promoted-link char-count="375"></eg-promoted-link><p>Here's a full rundown of the multipliers that apply to standard, super effective, not very effective, immune, and doubly effective attacks.</p>
+  <eg-promoted-link char-count="139"></eg-promoted-link><ul><li><strong>Not very effective</strong> - 0.625x damage, instead of the 0.5x damage done in the main series.</li>
+    <li><strong>Super effecive</strong> - 1.6x damage, instead of 2x damage done in the main series.</li>
+    <li><strong>Immunity</strong> - 0.39x damage, instead of 0 damage done in the main series.</li>
+    <li><strong>Doubly effective</strong> - 2.56x damage, instead of 4x damage done in the main series.</li>
+  </ul><p>In other words, the latest tweaks to Type effectivness brings them noticably closer to the multipliers in the mainline games - but still not in line with them entirely. It does make Type effectiveness all the more important though, so it's well worth getting to grips with those matchups if you can!</p>
+  <eg-promoted-link char-count="299"></eg-promoted-link><p>Ultimately, it's your mastery of three elements that will give you the greatest shot in PvP and the Gym and Raiding scene: Type effectiveness, understanding <a href="https://www.eurogamer.net/articles/2018-12-21-pokemon-go-moves-movesets-move-list-and-highest-dps-attacks">Pokémon Go's moves</a>, and having a good idea of the <a href="https://www.eurogamer.net/articles/2019-08-01-pokemon-go-best-pokemon-5392">best Pokémon in Pokémon Go</a>.</p>
+  <eg-promoted-link char-count="157"></eg-promoted-link></section>
+
+										
+				</div>
+
+							<div id="inread_video_body">
+				<div id="inread_video_advert"></div>
+				<script>
+					function runInlineVideo() {
+						jQuery('#inread_video_advert').getInreadVideo({
+							'article_total_words' : 500,
+							'bbvms_id': 'eg_net_inread_desktop'
+						});
+					}
+
+					function appendInlineVideo() {
+						var inreadScript = document.createElement("script");
+						inreadScript.type = "text/javascript";
+						inreadScript.async = true;
+						inreadScript.src = "/scripts/inread.bbvms.js?v1.2";
+						inreadScript.onload = runInlineVideo;
+						document.getElementsByTagName('head')[0].appendChild(inreadScript);
+					}
+				</script>
+			</div>
+					</article>
+
+			<div class="container-690">
+				
+									<p class="affiliate_disclaimer"><em>Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go <a href="/policies.php?view=how-we-work#advertisingpolicy">here</a>.</em></p>
+				
+				<p class="comment-cta">
+											<a href="/articles/2018-12-21-pokemon-go-type-chart-effectiveness-weaknesses#comments" class="button">Jump to comments (22)</a>
+									</p>
+
+				
+			
+			<div class="game-grid-block">
+
+				
+				<div class="grid-block-container">
+					<div class="grid-list">
+						<div class="grid-overflow">
+							
+								
+								<div class="grid-item count-1">
+									<p class="title"><a href="/games/pokmon-go">More about Pokémon Go</a></p>
+												<ul>
+				
+									<li><a href="/games/pokmon-go/news">News</a> <span>(240)</span></li>
+				
+				
+											<li><a href="/games/pokmon-go/guides">Guides</a> <span>(161)</span></li>
+									</ul>
+											
+										<button class="button " data-type="follow" data-action="follow" data-slug="pokmon-go"><i class="fa fa-plus"></i> Follow</button>
+													</div>
+													</div>
+					</div>
+
+									</div>
+
+			</div>
+
+			
+									<p class="section-title">About the author</p>
+			
+			<div class="author-bio">
+				
+				<img src="https://d2skuhm0vrry40.cloudfront.net/2018/internalforum/users/oli/1521645531.jpg/EG11/thumbnail/192x192/quality/75/format/jpg" alt="Chris Tapsell">
+
+				<div class="details">
+					<p class="name"><a href="/authors/1535">Chris Tapsell</a></p>
+					<p class="job-title">Staff Writer</p>
+					<p class="bio">Chris Tapsell is Eurogamer's Staff Writer, its newest Chris, and a keen explorer of the dark arts of gaming, from League of Legends to the murky world of competitive Pokémon. </p>
+
+									</div>
+			</div>
+
+							</div>
+
+			
+			
+						<script>
+				$(document).ready(function() {
+					
+					new LazyImages();
+
+											new SocialListener({
+							target: $(".social a")
+						});
+					
+					
+					
+									});
+			</script>
+
+									</div>
+
+													<div class="sidebar">
+								
+																	<div id="skyscraper" class="advert"><div class="collapsible advertContainer" data-dfp-id="EGNET_HP" data-dfp-sizes="300x250,160x600,300x600,300x1050" data-dfp-targeting="site=eurogamer.net,position=atf" id="div-ga-EGNET_HP"></div></div>
+																						<div class="ads-rail upper"><div class="sidebar-mpu-container" style="top: 600px;"> 				<div class="mpu collapsible"> 					<p class="section-title">Advertisement</p> 					<div class="lazyload" data-dfp-id="EGNET_Lazy_Load_HP_MPU" data-dfp-sizes="300x250,300x600" data-dfp-collapse="true" data-dfp-targeting="site=eurogamer.net,position=eurogamer.net-1,lazyload=true,sticky=false" id="div-ga-ARTICLE_MPU_1"></div> 				</div> 				<div class="small-list"><p class="section-title">Related</p> 								<div class="list-item"> 									<p class="title"> 										<a href="/articles/pokemon-go-incense-day-type-shuffle-date-bonuses-7002"> 											Pokémon Go Incense Day: Type shuffle bonuses, date and time explained 										</a> 									</p> 									<p class="subtitle">Everything you need to know about Incense Day in Pokémon Go .</p> 									<div class="metadata"> 										<a href="/articles/pokemon-go-incense-day-type-shuffle-date-bonuses-7002#comments" class="comment-count"> 											0 										</a> 									</div> 								</div> 							 								<div class="list-item"> 									<p class="title"> 										<a href="/articles/2019-11-21-pokemon-go-community-day-time-list-moves-6002"> 											Pokémon Go Community Day: April time and date, plus all previous Community Day Pokémon and moves listed 										</a> 									</p> 									<p class="subtitle">Everything you need to know about the monthly Pokémon Go event.</p> 									<div class="metadata"> 										<a href="/articles/2019-11-21-pokemon-go-community-day-time-list-moves-6002#comments" class="comment-count"> 											0 										</a> 									</div> 								</div> 							 								<div class="list-item"> 									<p class="title"> 										<a href="/articles/pokemon-go-remote-raids-limitations-pass-7002"> 											Pokémon Go Remote Raids: How Remote Raiding works, limitations and how to get a Remote Raid Pass explained 										</a> 									</p> 									<p class="subtitle">Remote Raiding allows you to battle in raids at home.</p> 									<div class="metadata"> 										<a href="/articles/pokemon-go-remote-raids-limitations-pass-7002#comments" class="comment-count"> 											0 										</a> 									</div> 								</div> 							</div></div></div>
+												</div>
+											</div>
+
+					
+			
+			<div class="below hd">
+
+				
+												<div class="homepage-billboard-container collapsible">
+													<div class="collapsible lazyload" data-dfp-id="EGNET_LB_2" data-dfp-sizes="728x90,970x250,1200x500" data-dfp-targeting="site=eurogamer.net,position=btf,lazyload=true,sticky=false,position=eurogamer.net-2" id="div-ga-EGNET_LB_2" data-dfp-collapse="true"></div>																	</div>
+							
+					
+							<p class="section-title">Related</p>
+			
+							<div class="stack">
+					<div class="grid">
+																				<div class="grid-4">
+								
+			
+			<div class="list-item large">
+								<div class="cover-wrapper">
+					<a href="/articles/2020-04-15-heres-how-pokemon-gos-remote-raiding-will-work" class="cover" style="background-image: url(&quot;img/placeholder.jpg&quot;);" data-lazyload="url(&quot;https://d2skuhm0vrry40.cloudfront.net/2020/articles/2020-04-15-14-29/-1586957395446.jpg/EG11/thumbnail/796x448/format/jpg/quality/75/cover.jpg&quot;)"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2020-04-15-heres-how-pokemon-gos-remote-raiding-will-work">
+							<span class="prefix"></span>Here's how Pokémon Go's remote raiding will work						</a>
+					</p>
+											<p class="subtitle">Daily research and remote PokéStop spins, and more.</p>
+										<div class="metadata">
+													<a href="/articles/2020-04-15-heres-how-pokemon-gos-remote-raiding-will-work#comments" class="comment-count">4</a>
+										</div>
+				</div>
+			</div>
+									</div>
+																				<div class="grid-2">
+								
+			
+			<div class="list-item default">
+								<div class="cover-wrapper">
+					<a href="/articles/2020-04-11-bethesda-warns-fallout-76s-big-new-wastelanders-update-means-some-camps-have-to-move" class="cover" style="background-image: url(&quot;img/placeholder.jpg&quot;);" data-lazyload="url(&quot;https://d2skuhm0vrry40.cloudfront.net/2020/articles/2020-04-11-15-13/-1586614413818.jpg/EG11/thumbnail/388x218/format/jpg/quality/60/cover.jpg&quot;)"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2020-04-11-bethesda-warns-fallout-76s-big-new-wastelanders-update-means-some-camps-have-to-move">
+							<span class="prefix"></span>As Fallout 76's big new Wastelanders update moves in, some player camps will have to move on						</a>
+					</p>
+											<p class="subtitle">Pack your bags.</p>
+										<div class="metadata">
+													<a href="/articles/2020-04-11-bethesda-warns-fallout-76s-big-new-wastelanders-update-means-some-camps-have-to-move#comments" class="comment-count">23</a>
+										</div>
+				</div>
+			</div>
+									</div>
+																				<div class="grid-2">
+								
+			
+			<div class="list-item default">
+								<div class="cover-wrapper">
+					<a href="/articles/2020-04-11-square-enix-warns-final-fantasy-14-development-significantly-impacted-by-coronavirus" class="cover" style="background-image: url(&quot;img/placeholder.jpg&quot;);" data-lazyload="url(&quot;https://d2skuhm0vrry40.cloudfront.net/2020/articles/2020-04-11-13-27/square-enix-warns-final-fantasy-14-development-significantly-impacted-by-coronavirus-1586608031381.jpg/EG11/thumbnail/388x218/format/jpg/quality/60/cover.jpg&quot;)"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2020-04-11-square-enix-warns-final-fantasy-14-development-significantly-impacted-by-coronavirus">
+							<span class="prefix"></span>Square Enix warns coronavirus will "significantly impact" Final Fantasy 14's development schedule						</a>
+					</p>
+											<p class="subtitle">Next big patch delayed.</p>
+										<div class="metadata">
+													<a href="/articles/2020-04-11-square-enix-warns-final-fantasy-14-development-significantly-impacted-by-coronavirus#comments" class="comment-count">7</a>
+										</div>
+				</div>
+			</div>
+									</div>
+																				<div class="grid-2">
+								
+			
+			<div class="list-item default">
+								<div class="cover-wrapper">
+					<a href="/articles/2020-04-09-amazon-delays-launch-of-mmo-new-world-to-august-due-to-coronavirus" class="cover" style="background-image: url(&quot;img/placeholder.jpg&quot;);" data-lazyload="url(&quot;https://d2skuhm0vrry40.cloudfront.net/2020/articles/2020-04-09-22-51/-1586469071622.jpg/EG11/thumbnail/388x218/format/jpg/quality/60/cover.jpg&quot;)"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2020-04-09-amazon-delays-launch-of-mmo-new-world-to-august-due-to-coronavirus">
+							<span class="prefix"></span>Amazon delays launch of MMO New World to August due to coronavirus						</a>
+					</p>
+											<p class="subtitle">Closed Beta now coming in July.</p>
+										<div class="metadata">
+													<a href="/articles/2020-04-09-amazon-delays-launch-of-mmo-new-world-to-august-due-to-coronavirus#comments" class="comment-count">4</a>
+										</div>
+				</div>
+			</div>
+									</div>
+																				<div class="grid-2">
+								
+			
+			<div class="list-item default">
+								<div class="cover-wrapper">
+					<a href="/articles/2020-04-03-rust-revamps-farming-system-adds-poop" class="cover" style="background-image: url(&quot;img/placeholder.jpg&quot;);" data-lazyload="url(&quot;https://d2skuhm0vrry40.cloudfront.net/2020/articles/2020-04-03-14-34/-1585920876300.jpg/EG11/thumbnail/388x218/format/jpg/quality/60/cover.jpg&quot;)"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2020-04-03-rust-revamps-farming-system-adds-poop">
+							<span class="prefix"></span>Rust revamps farming system, adds horse poop						</a>
+					</p>
+											<p class="subtitle">Higher defecalty. </p>
+										<div class="metadata">
+													<a href="/articles/2020-04-03-rust-revamps-farming-system-adds-poop#comments" class="comment-count">4</a>
+										</div>
+				</div>
+			</div>
+									</div>
+											</div>
+
+									</div>
+					
+				
+							
+						<p class="section-title">You may also enjoy...</p>
+										<div class="stack small">
+					<div class="grid">
+																			<div class="grid-fifth">
+								
+			
+			<div class="list-item ">
+								<div class="cover-wrapper">
+					<a href="/articles/2020-02-20-fortnite-weekly-deadpool-challenges-7013" class="cover" style="background-image: url(&quot;img/placeholder.jpg&quot;);" data-lazyload="url(&quot;https://d2skuhm0vrry40.cloudfront.net/2020/articles/2020-02-20-12-13/fortnite-deadpool-header.jpg/EG11/thumbnail/388x218/format/jpg/quality/60/cover.jpg&quot;)"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2020-02-20-fortnite-weekly-deadpool-challenges-7013">
+							<span class="prefix"></span>Fortnite Deadpool skin challenges: Where to find Deadpool's letter to Epic Games, and how Deadpool's weekly challenges work						</a>
+					</p>
+											<p class="subtitle">Everything you need to know about unlocking Deadpool in Fortnite.</p>
+										<div class="metadata">
+																</div>
+				</div>
+			</div>
+									</div>
+													<div class="grid-fifth">
+								
+			
+			<div class="list-item ">
+								<div class="cover-wrapper">
+					<a href="/articles/2020-01-23-temtem-starters-crystle-smazee-houchic-7011" class="cover" style="background-image: url(&quot;img/placeholder.jpg&quot;);" data-lazyload="url(&quot;https://d2skuhm0vrry40.cloudfront.net/2020/articles/2020-01-23-10-49/temtem-starter-choice-7011-1579776588529.jpg/EG11/thumbnail/388x218/format/jpg/quality/60/cover.jpg&quot;)"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2020-01-23-temtem-starters-crystle-smazee-houchic-7011">
+							<span class="prefix"></span>Temtem starters, their evolutions, base stats and how to make the best Temtem starter choice explained						</a>
+					</p>
+											<p class="subtitle">How to settle on a huge choice at the start of the game.</p>
+										<div class="metadata">
+																</div>
+				</div>
+			</div>
+									</div>
+													<div class="grid-fifth">
+								
+			
+			<div class="list-item ">
+								<div class="cover-wrapper">
+					<a href="/articles/2020-02-23-one-year-on-anthem-remains-a-sad-monument-to-a-generation-of-folly" class="cover" style="background-image: url(&quot;img/placeholder.jpg&quot;);" data-lazyload="url(&quot;https://d2skuhm0vrry40.cloudfront.net/2020/articles/2020-02-21-16-01/one-year-on-anthem-remains-a-sad-monument-to-a-generation-of-folly-1582300874708.jpg/EG11/thumbnail/388x218/format/jpg/quality/60/cover.jpg&quot;)"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2020-02-23-one-year-on-anthem-remains-a-sad-monument-to-a-generation-of-folly">
+							<span class="prefix">Feature</span>One year on, Anthem remains a sad monument to a generation of folly						</a>
+					</p>
+											<p class="subtitle">The sound of silence.</p>
+										<div class="metadata">
+													<a href="/articles/2020-02-23-one-year-on-anthem-remains-a-sad-monument-to-a-generation-of-folly#comments" class="comment-count">121</a>
+										</div>
+				</div>
+			</div>
+									</div>
+													<div class="grid-fifth">
+								
+			
+			<div class="list-item ">
+								<div class="cover-wrapper">
+					<a href="/articles/2019-12-10-final-fantasy-14s-naoki-yoshida-on-the-next-generation-and-the-challenges-of-future-proofing-mmos" class="cover" style="background-image: url(&quot;img/placeholder.jpg&quot;);" data-lazyload="url(&quot;https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-12-10-07-33/final-fantasy-14s-naoki-yoshida-on-the-next-generation-and-the-challenges-of-future-proofing-mmos-1575963191965.jpg/EG11/thumbnail/388x218/format/jpg/quality/60/cover.jpg&quot;)"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2019-12-10-final-fantasy-14s-naoki-yoshida-on-the-next-generation-and-the-challenges-of-future-proofing-mmos">
+							<span class="prefix">Feature</span>Final Fantasy 14's Naoki Yoshida on the next generation and the challenges of future-proofing MMOs						</a>
+					</p>
+											<p class="subtitle">"Please look forward to it."</p>
+										<div class="metadata">
+													<a href="/articles/2019-12-10-final-fantasy-14s-naoki-yoshida-on-the-next-generation-and-the-challenges-of-future-proofing-mmos#comments" class="comment-count">19</a>
+										</div>
+				</div>
+			</div>
+									</div>
+													<div class="grid-fifth">
+								
+			
+			<div class="list-item ">
+								<div class="cover-wrapper">
+					<a href="/articles/2019-11-27-games-of-the-decade-destiny-was-at-its-best-when-we-cheesed-it" class="cover" style="background-image: url(&quot;img/placeholder.jpg&quot;);" data-lazyload="url(&quot;https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-11-26-17-03/games-of-the-decade-destiny-was-at-its-best-when-we-cheesed-it-1574787791064.jpg/EG11/thumbnail/388x218/format/jpg/quality/60/cover.jpg&quot;)"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2019-11-27-games-of-the-decade-destiny-was-at-its-best-when-we-cheesed-it">
+							<span class="prefix">Feature</span>Games of the Decade: Destiny was at its best when we cheesed it						</a>
+					</p>
+											<p class="subtitle">The Last Word.</p>
+										<div class="metadata">
+													<a href="/articles/2019-11-27-games-of-the-decade-destiny-was-at-its-best-when-we-cheesed-it#comments" class="comment-count">85</a>
+										</div>
+				</div>
+			</div>
+									</div>
+											</div>
+
+									</div>
+
+					
+									<div id="comments" class="hd">
+						<p class="section-title">Comments (22)</p>
+						
+			
+						
+							<div class="alert">
+					<p>Comments for this article are now closed. Thanks for taking part!</p>
+				</div>
+
+					
+			<div class="threaded-comments hd">
+
+				<div class="filters">
+					<div class="button-group threshold">
+						<span>Hide low-scoring comments</span>
+						<button data-action="threshold" data-value="true" class="button outline on">Yes</button>
+						<button data-action="threshold" data-value="false" class="button outline">No</button>
+					</div>
+
+					<div class="button-group order">
+						<span>Order</span>
+						<button data-action="order" data-value="newest" class="button outline ">Newest</button>
+						<button data-action="order" data-value="oldest" class="button outline ">Oldest</button>
+						<button data-action="order" data-value="best" class="button outline on">Best</button>
+						<button data-action="order" data-value="worst" class="button outline ">Worst</button>
+					</div>
+
+					<div class="button-group threading">
+						<span>Threading</span>
+						<button data-action="expand" class="button outline">Expand all</button>
+						<button data-action="collapse" class="button outline">Collapse all</button>
+					</div>
+				</div>
+
+				<div class="comments-list"></div>
+			</div>
+
+			<script src="https://www.google.com/recaptcha/api.js?render=explicit" async="" defer=""></script>
+			<script>
+				// Global for use in Google Universal Event tracking
+				var article = {
+					"slug": "2018-12-21-pokemon-go-type-chart-effectiveness-weaknesses",
+					"type": "guide",
+																"platforms": "MOBILE,IPHONE,IPAD,ANDROID",
+										"author": "Chris Tapsell"
+				};
+
+				$(document).ready( function() {
+					var toolbar = new CommentToolbar({
+						toolbar: $("#main-toolbar"),
+						textarea: $("#comment-textarea"),
+						lang: {
+							loading: "Loading... hold tight!",
+						},
+					});
+					var c = new Comments({
+						toolbar: toolbar,
+						id: 2015225,
+						uid: 0,
+						lang: {
+							loading: "Loading... hold tight!",
+							post: "Post a comment",
+							updating: "Updating...",
+							error: "Sorry, but an error occurred. Please try again."
+						},
+						device: "hd",
+						orderBy: "best"
+					});
+				});
+			</script>
+							</div>
+											<div id="comments-rail" class="right-rail right-sidebar">
+							<div class="mpu collapsible" style="display:none;">
+								<p class="section-title">Advertisement</p>
+								<div class="lazyload" data-dfp-id="EGNET_Lazy_Load_HP_MPU" data-dfp-sizes="300x250" data-dfp-collapse="true" data-dfp-targeting="site=eurogamer.net,position=eurogamer.net-comments-1,lazyload=true,sticky=false" id="div-ga-ARTICLE_MPU_COMMENTS"></div>
+							</div>
+						</div>
+									
+															<div class="homepage-billboard-container collapsible">
+							<div class="collapsible advertContainer" data-dfp-id="EGNET_LEADERBOARD_LAST" data-dfp-sizes="728x90, 970x250" data-dfp-targeting="site=eurogamer.net" id="div-ga-EGNET_LEADERBOARD_LAST" data-dfp-collapse="true"></div>						</div>
+												</div>
+		
+					<div class="end">
+						
+			
+				
+									<div class="newsletter-promo hd" id="newsletter-promo">
+						<div class="grid">
+							<div class="grid-6">
+								<p class="section-title">Subscribe to The Eurogamer.net Daily</p>
+								<p class="description">
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								</p>
+							</div>
+							<div class="grid-6">
+								<form>
+																		<input type="hidden" name="action" value="subscribe">
+									<input type="hidden" name="newsletter" value="net-daily">
+									<input type="email" name="email" value="" placeholder="Email address" required="required">
+									<button class="button">Subscribe</button>
+								</form>
+							</div>
+						</div>
+					</div>
+
+					<script>
+						$(document).ready(function() {
+							new NewsletterSubscriber({
+								target: $("#newsletter-promo"),
+								lang: {
+									subscribe: "Subscribe",
+									success: "You're subscribed to this newsletter. Nice one!",
+									error: "Sorry, but an error occurred. Please try again."
+								}
+							});
+						});
+					</script>
+														</div>
+				</main>
+			</div>
+
+
+			
+			<footer class="footer hd">
+				<div class="container-1260 with-inside-padding">
+					<div class="about">
+						<a href="/"><img src="https://d2skuhm0vrry40.cloudfront.net/2018/eg12/EG-LogoReversed-net.png/EG11/resize/-1x36/format/png/logo.png?v20200416111655" alt="Eurogamer.net"></a>
+
+						<p>Bad puns and video games since 1999.</p>
+						<p>This site © 2020 Gamer Network. All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.</p>
+
+						<div class="switcher">
+							<form method="post" action="/articles/2018-12-21-pokemon-go-type-chart-effectiveness-weaknesses">
+																<label class="section-title">Site version</label>
+								<div class="button-group">
+									<button type="submit" name="version" value="mobile" class="button outline ">Mobile</button>
+									<button type="submit" name="version" value="portable" class="button outline ">Portable</button>
+									<button type="submit" name="version" value="hd" class="button outline on">Desktop</button>
+								</div>
+							</form>
+						</div>
+					</div>
+
+					<nav>
+						<div class="explore">
+							<p class="section-title">Explore</p>
+							<ul>
+																	<li>
+										<a href="/pc">PC</a>
+									</li>
+																	<li>
+										<a href="/ps4">PlayStation 4</a>
+									</li>
+																	<li>
+										<a href="/xboxone">Xbox One</a>
+									</li>
+																	<li>
+										<a href="/switch">Switch</a>
+									</li>
+																	<li>
+										<a href="/digitalfoundry">Digital Foundry</a>
+									</li>
+																	<li>
+										<a href="/news">News</a>
+									</li>
+																	<li>
+										<a href="/reviews">Reviews</a>
+									</li>
+																	<li>
+										<a href="/videos">Videos</a>
+									</li>
+																	<li>
+										<a href="/features">Features</a>
+									</li>
+																	<li>
+										<a href="/guides">Guides</a>
+									</li>
+																<li><a href="/authors">Authors</a></li>
+								<li><a href="/games?letter=a">GameDB</a></li>
+							</ul>
+						</div>
+
+						<div class="helpful-links">
+							<p class="section-title">Helpful links</p>
+							<ul>
+																	<li><a href="articles/the-eurogamer-staff" rel="nofollow">Staff</a></li>
+								
+								<li><a href="contact" rel="nofollow">Contact us</a></li>
+								<li><a href="https://www.gamer-network.net" target="_blank">Corporate site</a>
+
+											</li><li><a href="policies">Policy centre</a></li>
+		
+																	<li><a href="//www.twitter.com/eurogamer" rel="nofollow" target="_blank">Twitter</a></li>
+								
+																	<li><a href="https://www.facebook.com/Eurogamer" rel="nofollow" target="_blank">Facebook</a></li>
+								
+								<li><a href="/rss" rel="nofollow">RSS</a></li>
+
+								<li><a href="/cookies">Cookies</a></li>
+
+								<li><a href="https://privacy.reedexpo.com/en-gb.html" target="_blank" rel="nofollow">Privacy Policy</a></li>
+
+																	<li><a href="https://privacy.reedexpo.com/en-us/ccpa.html" target="_blank" rel="nofollow">California Privacy Notice</a></li>
+															</ul>
+						</div>
+
+													<div class="network">
+								<p class="section-title">Across Europe</p>
+								<ul>
+									<li><a href="https://www.eurogamer.cz" target="_blank">Eurogamer.cz</a></li>
+									<li><a href="https://www.eurogamer.de" target="_blank">Eurogamer.de</a></li>
+									<li><a href="https://www.eurogamer.es" target="_blank">Eurogamer.es</a></li>
+									<li><a href="https://www.eurogamer.it" target="_blank">Eurogamer.it</a></li>
+									<li><a href="https://www.eurogamer.net" target="_blank">Eurogamer.net</a></li>
+									<li><a href="https://www.eurogamer.nl" target="_blank">Eurogamer.nl</a></li>
+									<li><a href="https://www.eurogamer.pl" target="_blank">Eurogamer.pl</a></li>
+									<li><a href="https://www.eurogamer.pt" target="_blank">Eurogamer.pt</a></li>
+									<li><a href="https://www.rockpapershotgun.de" target="_blank">RockPaperShotgun.de</a></li>
+								</ul>
+							</div>
+
+							<div class="network">
+								<p class="section-title">Gamer Network</p>
+								<ul>
+									<li><a href="https://www.dicebreaker.com" target="_blank">Dicebreaker</a></li>
+									<li><a href="https://www.egx.net" target="_blank">EGX</a></li>
+									<li><a href="https://www.gamesindustry.biz" target="_blank">GamesIndustry.biz</a></li>
+									<li><a href="https://www.jelly.deals" target="_blank">Jelly Deals</a></li>
+									<li><a href="https://www.metabomb.net" target="_blank">Metabomb</a></li>
+									<li><a href="http://www.nintendolife.com" target="_blank">Nintendo Life</a></li>
+									<li><a href="http://www.pushsquare.com" target="_blank">Push Square</a></li>
+									<li><a href="https://www.rockpapershotgun.com" target="_blank">Rock, Paper, Shotgun</a></li>
+									<li><a href="https://www.usgamer.net" target="_blank">USgamer</a></li>
+									<li><a href="https://www.vg247.com" target="_blank">VG247</a></li>
+									<li><a href="https://www.videogameschronicle.com" target="_blank">VGC</a></li>
+								</ul>
+							</div>
+											</nav>
+
+				</div>
+
+				
+			</footer>
+
+			
+		
+			
+									<script>
+					$(document).ready( function () {
+						new LanguageBar({
+							site: 1,
+							sites: {
+																	1: {
+										www: "https://www.eurogamer.net/",
+										exists: "Do you know about Eurogamer.net?",
+										cta: "Click here to visit Eurogamer.net!"
+									},
+																	2: {
+										www: "https://www.eurogamer.de/",
+										exists: "Kennst du Eurogamer.de?",
+										cta: "Hier klicken, um zu Eurogamer.de zu gelangen!"
+									},
+																	4: {
+										www: "https://www.eurogamer.es/",
+										exists: "&iquest;Conoces Eurogamer.es?",
+										cta: "Haz click aqu&iacute; para visitar Eurogamer.es"
+									},
+																	5: {
+										www: "https://www.eurogamer.it/",
+										exists: "Sapevi di Eurogamer.it?",
+										cta: "Clicca qu&igrave; per visitare Eurogamer.it!"
+									},
+																	10: {
+										www: "https://www.eurogamer.cz/",
+										exists: "V&iacute;te o Eurogamer.cz?",
+										cta: "Klikn&#283;te zde pro n&aacute;v&scaron;t&#283;vu Eurogamer.cz!"
+									},
+																	13: {
+										www: "https://www.eurogamer.pl/",
+										exists: "Czy wiesz, &#380;e Eurogamer jest dost&#281;pny po polsku?",
+										cta: "Kliknij tutaj, by przej&#347;&#263; na Eurogamer.pl!"
+									},
+																	7: {
+										www: "https://www.eurogamer.nl/",
+										exists: "Had je al gehoord van Eurogamer.nl?",
+										cta: "Klik hier om Eurogamer.nl te bezoeken!"
+									},
+																15: {
+									www: "http://www.usgamer.net",
+									exists: "Have you heard about USgamer.net? It covers the best in video gaming from an American perspective.",
+									cta: "Click here to visit!"
+								}
+							}
+						})
+					});
+				</script>
+												<div class="sign-in-overlay">
+
+					<div class="sign-in-container">
+
+						<div class="sign-in-content">
+							<div>
+								<p class="section-title">Sign in</p>
+
+								<form method="post" class="form">
+									<input type="hidden" name="useraction" value="login">
+
+									<label>Username</label>
+									<input id="login-username" name="username" autocomplete="username">
+
+									<label>Password</label>
+									<input type="password" name="password" autocomplete="current-password">
+
+									<button class="button wide">Sign in</button>
+								</form>
+
+												<div id="facebook-login-wrapper" style="display: none;">
+					<hr>
+					<p class="section-title">Connect with Facebook</p>
+					<div id="fb-login-via-overlay"></div>
+				</div>
+				<script>
+					function runFacebookLogin() {
+						$("#facebook-login-wrapper").show();
+						new FacebookLogin({
+							target: $("#fb-login-via-overlay"),
+							style: "wide",
+							translations: {
+								login: "Connect with Facebook",
+								working: "Logging in...",
+								error: "Sorry, but an error occurred. Please try again."
+							}
+						});
+					}
+				</script>
+			
+								<hr>
+
+								<p class="section-title">New in town?</p>
+								<a href="register" class="button outline wide" rel="nofollow">Create an account</a>
+
+								<hr>
+
+								<a href="login" rel="nofollow">Forgotten your details?</a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<script>
+					$(document).ready( function() {
+						$("[data-action=launch-sign-in-overlay]").on("click", function(e) {
+							$(".sign-in-overlay").addClass("open");
+						});
+
+						$(".sign-in-overlay").on("click", function(e) {
+							if($(e.target).hasClass("sign-in-container")) {
+								$(".sign-in-overlay").removeClass("open");
+							}
+						});
+					});
+				</script>
+					
+		
+			<script type="text/javascript">
+			function do_the_ads(custom_variables) {
+
+				jQuery(document).ready(function() {
+
+					function getAudienceProjectTargetingData() {
+						"use strict";
+
+						var CACHE_KEY = "apr_tdc";
+						try {
+							var json = window.localStorage.getItem(CACHE_KEY);
+							if (json) {
+								var cache = JSON.parse(json);
+								if (cache.exp > Date.now()) {
+									return cache.d;
+								}
+								else {
+									window.localStorage.removeItem(CACHE_KEY);
+								}
+							}
+						}
+						catch (err) {
+							window.localStorage.removeItem(CACHE_KEY);
+						}
+						return {};
+					};
+
+					function setAPTargeting() {
+						var setTargeting = function () {
+							var targetingData = getAudienceProjectTargetingData();
+							for (var key in targetingData) {
+								if (targetingData.hasOwnProperty(key)) {
+									window.googletag.pubads().setTargeting(key, targetingData[key]);
+								}
+							}
+						};
+
+						window.googletag = window.googletag || {};
+						window.googletag.cmd = window.googletag.cmd || [];
+						if (window.googletag.cmd.unshift) {
+							window.googletag.cmd.unshift(setTargeting);
+						}
+						else {
+							window.googletag.cmd.push(setTargeting);
+						}
+					};
+
+					if(jQuery('#content header').length) {
+						jQuery('#skyscraper').css({'margin-top' : jQuery('#content header').height() + 'px'});
+					}
+
+											if(jQuery('#prod-buy').length > 0) {
+							jQuery('#sidebar .games').after('<li id=\"sidebar_amazon\"></li>');
+							jQuery('#sidebar_amazon').append(jQuery('#prod-buy'));
+							jQuery('#prod-buy').show();
+						}
+					
+					custom_variables['source'] = "article";
+					custom_variables['version'] = "hd";
+					custom_variables['release'] = "eg12";
+					custom_variables['logged_in'] = "false";
+
+											custom_variables['tags'] = ["guide","mobile","iphone","ipad","android","mmo","adventure","anime","fantasy"];
+					
+											custom_variables['games'] = ["pokmon-go"];
+					
+					
+					
+											var ads_space = 450;
+					
+					if(Cookies.get('sp')) {
+						custom_variables['sp_message'] = Cookies.get('sp');
+					}
+
+					setAPTargeting();
+
+					jQuery('.advertContainer').getDFPads({
+						'custom_variables' : custom_variables,
+						'lazyload_spacer': ads_space,
+						'showNonPersonalisedAds': false,
+												'runUAM': true,
+												'size_mappings': {
+							'portable-leaderboard': [
+								{viewport: [1260, 300], ad_sizes: [[728, 90], [970, 250], [1260, 110], [1260, 250]]},
+								{viewport: [ 980, 300], ad_sizes: [[728, 90], [970, 250]]},
+								{viewport: [ 750, 300], ad_sizes: [728, 90]},
+								{viewport: [ 0, 0], ad_sizes: []}
+							],
+							'portable-fishbowl': [
+								{viewport: [ 980, 300], ad_sizes: [[320, 400], [728, 90], [970, 250]]},
+								{viewport: [ 750, 300], ad_sizes: [[320, 400], [728, 90]]},
+								{viewport: [ 0, 0], ad_sizes: []}
+							],
+							'portable-mpu-leader': [
+								{viewport: [ 980, 300], ad_sizes: [[300, 250], [728, 90], [970, 250]]},
+								{viewport: [ 750, 300], ad_sizes: [[300, 250], [728, 90]]},
+								{viewport: [ 0, 0], ad_sizes: []}
+							]
+						},
+						adRenderedCallback: function(slotName, event) {
+							if(jQuery(slotName).attr('id').indexOf('STICKY_LB') !== -1) {
+								if(!event.isEmpty) {
+									jQuery('#sticky_leader_close').show();
+									jQuery('#sticky_leaderboard').css({'padding-top':'4px'});
+									jQuery('body #browserMaster').css({'padding-bottom':'90px'});
+								}
+							}
+						}
+					});
+
+											(adsbygoogle = window.adsbygoogle || []).requestNonPersonalizedAds=0;
+						window.adsbygoogle.push({});
+					
+				});
+			}
+			</script>
+
+							<script type="text/javascript">
+					function appendSourcepoint() {
+						( function () {
+							var _sp_=function(n){function t(e){if(o[e])return o[e].exports;var r=o[e]={i:e,l:!1,exports:{}};return n[e].call(r.exports,r,r.exports,t),r.l=!0,r.exports}var o={};return t.m=n,t.c=o,t.i=function(n){return n},t.d=function(n,o,e){t.o(n,o)||Object.defineProperty(n,o,{configurable:!1,enumerable:!0,get:e})},t.n=function(n){var o=n&&n.__esModule?function(){return n["default"]}:function(){return n};return t.d(o,"a",o),o},t.o=function(n,t){return Object.prototype.hasOwnProperty.call(n,t)},t.p="",t(t.s=2)}([function(n,t){function o(n,t){e&&console[n].apply(console,["[bootstrap]"].concat(Array.prototype.slice.call(t)))}var e=!1;n.exports={debug:function(){o("debug",arguments)},info:function(){o("info",arguments)},time:function(){o("time",arguments)},warn:function(){o("warn",arguments)},error:function(){o("error",arguments)},useDefaults:function(){e=!0},DEBUG:1}},function(n,t,o){"use strict";function e(){R||(R=!0,D=b.config=b.config||{},s(),F=D.bootstrap&&D.bootstrap.contentControlCallback||D.content_control_callback,q=D.accountId||D.account_id||D.client_id||window.sp_cid,N=D.beacon&&D.beacon.contentControlEndpoint||D.content_control_beacon_endpoint||v.a,D.debug_level&&"OFF"!==D.debug_level.toString().toUpperCase()||D.debug&&D.debug.level&&"OFF"!==D.debug.level.toString().toUpperCase()?j=!0:window.location.search&&null!=window.location.search.match(/_sp_debug_level=(?!off|OFF)/)&&(j=!0),j&&m.useDefaults({defaultLevel:m.DEBUG}))}function r(n,t,e){function r(o,e){var r=new Image;r.src="//"+N+"/cct?v="+encodeURIComponent(v.b)+"&ct="+h+"&cid="+encodeURIComponent(q)+"&l="+encodeURIComponent(n.toString())+"&rc="+encodeURIComponent(t)+"&d0="+encodeURIComponent(i)+(o?"&d1="+encodeURIComponent(o):"")+(null==e?"":"&d2="+encodeURIComponent(e)),g.info("sending beacon: "+r.src),c&&c()}var i=arguments.length>3&&void 0!==arguments[3]?arguments[3]:"",a=arguments[4],c=arguments[5];if(a){var d=e.lastIndexOf("."),u=e.lastIndexOf("/"),s=-1===d||u>d?e+".png":e.substring(0,d)+".png",l=new Image;l.addEventListener("load",function(){r("1",s)}),l.addEventListener("error",function(){o.i(f.a)(s,function(n,t,o){r("0",s+"::"+o)})}),l.src=s}else r()}function i(n,t,o,e){var r=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},a=arguments.length>5&&void 0!==arguments[5]&&arguments[5],c=function(){i(n,t,o,e,r,!0)};n(t,a?o:c,e,r)}function a(n,t,o,e){function r(o,r){t(o,n,r,e.enableImageLoad)}function i(t,r){o(t,n,r,e.enableImageLoad),e.onError&&e.onError(r)}var a=document.createElement("script");a.src=n,a.onload=function(){e.onLoad&&e.onLoad()},a.onerror=function(){function t(n){return o.indexOf(n)>-1}var o=(navigator.userAgent||navigator.vendor||window.opera).toLowerCase();t("mobi")||t("ipad")||t("android")||t("iphone")?i(L):t("exabot")?i(O):t("bingbot")||t("bingpreview")?i(k):t("googlebot")||t("adsbot-google")||t("mediapartners-google")?i(C):t("googleweblight")?i(E):window.location.host===w?i(x):t("msie 10")||t("msie 9")||t("msie 8")?i(I):c(n,r,i)},document.head.appendChild(a)}function c(n,t,e){o.i(f.a)(n,function(o,r,i,a){(o||r?t:e)(a,n+"::"+i)})}function d(n,t,o,e){if(S)return void u(U+"::"+n,o);r(y,n,t,o,e,function(){if(F){if(j){g.error("bootstrap locking",y,n,t,o,e);debugger}setTimeout(function(){F()},250)}})}function u(n,t,o,e){r(_,n,t,o,e)}function s(){b._networkListenerData||(b._networkListenerData=o.i(p.a)())}function l(n,t){e(),g.info("bootstrap called with",n,t),i(a,n,d,u,t)}Object.defineProperty(t,"__esModule",{value:!0});var f=o(4),p=o(5),v=o(3),g=o(0),m=void 0;m=o(0);var w=["w","e","b","c","a","c","h","e",".","g","o","o","g","l","e","u","s","e","r","c","o","n","t","e","n","t",".","c","o","m"].join(""),b=window._sp_||{},h=1,_=0,y=1,L="m",C="g",x="gw",E="gl",I="i",k="b",O="e",U="n",R=!1,S=!1,j=!1,D=void 0,F=void 0,q=void 0,N=void 0;window.addEventListener("beforeunload",function(){S=!0}),window._sp_=b,b.setupNetworkListeners=s,b.bootstrap=l,window.spBootstrap=l,t["default"]=b},function(n,t,o){o(0);n.exports=o(1)["default"]},function(n,t,o){"use strict";function e(n){return n.join("")}o.d(t,"b",function(){return r}),o.d(t,"a",function(){return i});var r=(o(0),"2.0.1098"),i=(e(["w","w","w",".","s","u","m","m","e","r","h","a","m","s","t","e","r",".","c","o","m"]),e(["w","w","w",".","r","o","o","s","t","e","r","f","i","r","e","w","o","r","k",".","c","o","m"]));e(["/","/","f","s","m","1","0","1","9",".","g","l","o","b","a","l",".","s","s","l",".","f","a","s","t","l","y",".","n","e","t","/","f","s","m","/","d","s"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","2",".","0",".","1","0","9","8","/","r","e","c","o","v","e","r","y","_","d","f","p","_","i","n","t","e","r","n","a","l","-","v","2",".","0",".","1","0","9","8",".","j","s"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","2",".","0",".","1","0","9","8","/","r","e","c","o","v","e","r","y","_","l","i","b","_","a","p","i","_","i","f","r","a","m","e","-","v","2",".","0",".","1","0","9","8",".","h","t","m","l"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","2",".","0",".","1","0","9","8","/","r","e","c","o","v","e","r","y","_","l","i","b","_","r","i","d","_","i","f","r","a","m","e","-","v","2",".","0",".","1","0","9","8",".","h","t","m","l"])},function(n,t,o){"use strict";function e(n,t){function o(n){try{return n&&n.timeStamp?n.timeStamp:window.performance.now()}catch(n){return Date.now()}}var e=arguments.length>2&&void 0!==arguments[2]?arguments[2]:window.location,l=arguments.length>3&&void 0!==arguments[3]?arguments[3]:window.navigator,f=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},p=document.createElement("a");if(p.href=n,"https:"===e.protocol&&p.protocol!==e.protocol)return r.error("protocol mismatch in https environment, standing down"),void t(!1,!1,p.protocol,u);var v=new XMLHttpRequest,g=f.withCredentials;null!=g&&(v.withCredentials=g);try{v.open(f.method||"GET",n)}catch(n){return void t(!0,!1,n.toString(),c,v)}if(null!=f.headers){var m=f.headers;Object.keys(m).forEach(function(n){v.setRequestHeader(n,m[n])})}var w=void 0,b=void 0;v.onloadstart=function(n){w=o(n)},v.onreadystatechange=function(n){if(4===this.readyState){b=o(n)-w;var e=0===this.status&&!1!==l.onLine,r="2"===this.status.toString()[0],c=void 0;return c=r?a:!1===l.onLine?s:i,void t(e,r,this.status+"::"+b,c,v)}};try{v.send(f.body)}catch(n){return void t(!0,!1,n.toString(),d,v)}}t.a=e;var r=o(0),i="n",a="nx",c="xo",d="xs",u="p",s="of"},function(n,t,o){"use strict";function e(){var n=arguments.length>0&&void 0!==arguments[0]?arguments[0]:document,t=[],o=[],e=r.bind(null,t),i=r.bind(null,o);return n.addEventListener("load",e,!0),n.addEventListener("error",i,!0),{load:{events:t,listener:e},error:{events:o,listener:i}}}function r(n,t){if(t.target){var o="string"==typeof t.target.tagName?t.target.tagName.toLowerCase():"",e="string"==typeof t.target.src?t.target.src:"";"iframe"!==o&&n.push({tagName:o,src:e})}}t.a=e;o(0)}]);
+							//# sourceMappingURL=https://s3.amazonaws.com/d3jlsadfjkuern/2.0.1098/Ym9vdHN0cmFwLmpz.map
+							window ._sp_ =  window ._sp_ || {};
+							window ._sp_.config =  window ._sp_.config || {};
+							window ._sp_.config.account_id = 347;
+							window ._sp_.config.content_control_callback =  function () {
+								//console.log( "CONTENT LOCK" );
+							};
+							window ._sp_.config.mms_domain =  "eurogamer-uk.eurogamer.net" ;
+							window ._sp_.mms =  window ._sp_.mms || {};
+							window ._sp_.mms.cmd =  window ._sp_.mms.cmd || [];
+							window ._sp_.config.mms_client_data_callback =  function (o) {
+								var _sp_msg_id = parseInt(o.info.msg_id);
+								var _sp_cookie_val = "";
+								if(o.d.abp==true && _sp_msg_id>0) {
+
+																	if( _sp_msg_id == 30015) {
+										Cookies.set("sp", "eg_wl_only_message_seen", { expires: 30 });
+									} else {
+										Cookies.set("sp", "eg_continue_message_seen", { expires: 30 });
+									}
+								
+								}
+							};
+
+															window._sp_.config.fsm_endpoint = "//eg-p2.eurogamer.net";
+								window._sp_.config.enable_fsm_detection = true;
+								window._sp_.config.enable_fsm_network_detection = true;
+							
+							window ._sp_.mms.cmd.push( function () {
+
+								window ._sp_.mms.setTargeting( "logged-in", "false" );
+								window ._sp_.mms.setTargeting( "page", "article" );
+								window ._sp_.mms.setTargeting( "show-ads", "true" );
+
+								
+																	window ._sp_.mms.setTargeting( "guide", "true" );
+								
+							});
+
+							window ._sp_.mms.cmd.push( function () {
+								window ._sp_.mms.startMsg();
+							});
+
+							window ._sp_.bootstrap( "scripts/Eurogamer/meurogamer-fsm.js?3" );
+							window ._sp_.config.mms_choice_selected_callback =  function (choiceID) {};
+
+						})();
+					};
+				</script>
+					
+		
+						<script type="text/javascript">
+				function appendCarbon() {
+					!function(a,l,b,c,k,s,t,g,A){a.CustomerConnectAnalytics=k,a[k]=a[k]||function(){
+					(a[k].q=a[k].q||[]).push(arguments)},g=l.createElement(b),A=l.getElementsByTagName(b)[0],
+					g.type="text/javascript",g.async=!0,g.src=c+"?id="+s+"&parentId="+t,A.parentNode.insertBefore(g,A)
+					}(window,document,"script","//carbon-cdn.ccgateway.net/script","cca",window.location.hostname,"04d6b31292");
+				}
+			</script>
+			<script>
+				// Drop Third-Party Cookies on Consent
+				function dropCookies() {
+										!function (f, b, e, v, n, t, s) {
+						if (f.fbq)return;
+						n = f.fbq = function () {
+							n.callMethod ?
+									n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+						};
+						if (!f._fbq)f._fbq = n;
+						n.push = n;
+						n.loaded = !0;
+						n.version = '2.0';
+						n.queue = [];
+						t = b.createElement(e);
+						t.async = !0;
+						t.src = v;
+						s = b.getElementsByTagName(e)[0];
+						s.parentNode.insertBefore(t, s)
+					}(window,
+							document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+					
+															fbq('init', '897415313645265');
+					
+										fbq('init', '738979179819818');
+					
+											fbq('track', 'PageView');
+					
+					 appendCarbon(); 				}
+			</script>
+			<script>
+				function doAdsOnConsent() {
+					if (typeof do_the_ads == 'function') {
+						do_the_ads({});
+					}
+
+					if (typeof do_the_ads_mobile == 'function') {
+						do_the_ads_mobile();
+					}
+
+					if (typeof do_the_ads_portable == 'function') {
+						do_the_ads_portable();
+					}
+				}
+			</script>
+		
+		<script type="application/ld+json">
+			{
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": "https://www.eurogamer.net/articles/2018-12-21-pokemon-go-type-chart-effectiveness-weaknesses",
+    "url": "https://www.eurogamer.net/articles/2018-12-21-pokemon-go-type-chart-effectiveness-weaknesses",
+    "headline": "Pok\u00e9mon Go Type chart, Type effectiveness and weakness explained",
+    "inLanguage": "en",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://d2skuhm0vrry40.cloudfront.net/2015/articles/1/8/4/7/8/0/6/pokemon-battle-chart-type-effectiveness-weaknesses-1470236210043.jpg/EG11/resize/1200x-1/pokemon-battle-chart-type-effectiveness-weaknesses-1470236210043.jpg"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Chris Tapsell",
+        "sameAs": "https://www.eurogamer.net/authors/1535"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Eurogamer.net",
+        "sameAs": "https://www.eurogamer.net/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://d2skuhm0vrry40.cloudfront.net/2018/eg12/EG-Logo-net.png/EG11/resize/-1x120/logo.png"
+        }
+    },
+    "datePublished": "2018-12-21T15:01:00+00:00",
+    "dateModified": "2019-08-01T14:01:24+01:00"
+}		</script>
+
+					<script type="application/ld+json">
+				{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.eurogamer.net/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Guides",
+            "item": "https://www.eurogamer.net/archive/guide"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pok\u00e9mon Go",
+            "item": "https://www.eurogamer.net/games/pokmon-go"
+        }
+    ]
+}			</script>
+		
+				<script>
+			function appendComscore() {
+				var _comscore = _comscore || [];
+				_comscore.push({ c1: "2", c2: "8518622" });
+				(function() {
+					var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+					s.src = "https://sb.scorecardresearch.com/beacon.js";
+					el.parentNode.insertBefore(s, el);
+				})();
+			}
+		</script>
+
+					<script type="text/javascript">
+				function appendSkimlinks() {
+											var skim_script = document.createElement("script");
+						skim_script.type = "text/javascript";
+						skim_script.async = true;
+						skim_script.src = "//s.skimresources.com/js/87431X1540261.skimlinks.js";
+						document.getElementsByTagName('head')[0].appendChild(skim_script);
+									}
+			</script>
+
+				<script type="text/javascript">
+			function appendCaptify() {
+							}
+		</script>
+
+		<script type="text/javascript">
+			function appendAudienceProject() {
+				var ap_script = document.createElement("script");
+				ap_script.type = "text/javascript";
+				ap_script.async = true;
+				ap_script.src = "https://sak.userreport.com/gamer-network/launcher.js";
+				document.getElementsByTagName('head')[0].appendChild(ap_script);
+			}
+		</script>
+
+					<script>
+				function mormontLoaded () {
+					if (typeof OptanonActiveGroups !== 'undefined' && OptanonActiveGroups.match(/,2,/) && !window.mormontDone) {
+						runMormont();
+					}
+				}
+
+				function runMormont() {
+					if (!mormont) return;
+										mormont('configure', 'property', 'eurogamer');
+											mormont('set', 'section', 'article');
+										if (window.location.pathname.match('^/profile')) {
+						mormont('set', 'section', 'community');
+					}
+					if (window.location.pathname.match('^/inbox')) {
+						mormont('set', 'section', 'user');
+					}
+											mormont('set', 'language', 'en');
+																mormont('set', 'platforms', ["mobile","iphone","ipad","android"]);
+																mormont('set', 'tags', ["genre:mmo","genre:mmo","genre:mmo","game:pokmon-go"]);
+																					mormont('set', 'published', '2018-12-21T15:01:00+00:00');
+						mormont('set', 'article_type', 'guide');
+																mormont('set', 'author', "Chris Tapsell");
+											mormont('send', 'pageview');
+											mormont('trackClicks', ['article']);
+										window.mormontDone = true;
+				};
+			</script>
+			<script src="https://cdn.gamer-network.net/2018/scripts/mormont/v2.20.0/mormont.js" async="" onload="mormontLoaded()"></script>
+		
+		<script defer="">
+			$(document).ready(function() {
+				window.followButtons = new FollowButtons({
+					uid: 0,
+					lang: {
+						follow: "Follow",
+						unfollow: "Unfollow",
+						following: "Following"
+					}
+				});
+			});
+		</script>
+
+					<script>
+				jQuery(document).ready(function(){
+					renderEdmonds('.edmonds-block', {
+						'site': 'eurogamer.net',
+					});
+
+					// Check for other Amazon links and add subtag if required
+					jQuery.each(jQuery('article main a'), function(i, k) {
+
+						var link_href = jQuery(k).attr('href');
+					    if(link_href.match(/amazon\./i) && link_href.indexOf('ascsubtag') == -1) {
+
+					      subtag='';
+					      if(window.location.pathname.length > 1){
+					        var subtag = window.location.pathname.substring(1);
+					        subtag = subtag.replace(/\//g,'-').substring(0,89);
+					      } else {
+					        subtag='index';
+					      }
+					      link_href = link_href + ((link_href.indexOf('?') == -1) ? '?ascsubtag=' : '&ascsubtag=') + subtag;
+
+					      jQuery(k).attr('href', link_href);
+
+					    }
+
+					});
+
+				});
+			</script>
+						<script>
+				function appendVideoPlayer() {
+											// Video Player
+						var videos = $(".video-player");
+						for(i = 0; i < videos.length; i++) {
+							var video = $(videos[i]);
+							new videoPlayer({
+								player: video,
+								label: video.attr('data-label'),
+								more: "More videos",
+								subscribe: "Subscribe to our YouTube channel",
+								version: "hd",
+								error: "Sorry, but there was an error loading the video player.",
+							});
+						}
+									}
+
+				function appendTwitchPlayer() {
+									}
+
+				$(document).ready(function() {
+					// Lazy Covers
+					var lc = new LazyCovers({
+						selector: ".cover, .avatar"
+					});
+
+											window['adsSidebar'] = new SidebarAds({
+							content: $(".document > .main"),
+							sidebar: $(".ads-rail.upper"),
+							offset: 600,
+							firstOffset: 600,
+							limit: 20,
+							prefix: "ARTICLE",
+							zone: 'EGNET_Lazy_Load_HP_MPU',
+							site: 'eurogamer.net',
+							articles: [{"slug":"pokemon-go-incense-day-type-shuffle-date-bonuses-7002","title":"Pok\u00e9mon Go Incense Day: Type shuffle bonuses, date and time explained","subtitle":"Everything you need to know about Incense Day in Pok\u00e9mon Go .","comments":0,"image":"2020\/articles\/2020-04-16-12-14\/pokemon-go-incense-header.jpg"},{"slug":"2019-11-21-pokemon-go-community-day-time-list-moves-6002","title":"Pok\u00e9mon Go Community Day: April time and date, plus all previous Community Day Pok\u00e9mon and moves listed","subtitle":"Everything you need to know about the monthly Pok\u00e9mon Go event.","comments":0,"image":"2020\/articles\/2020-03-05-09-26\/pokemon-go-community-day-abra.jpg"},{"slug":"pokemon-go-remote-raids-limitations-pass-7002","title":"Pok\u00e9mon Go Remote Raids: How Remote Raiding works, limitations and how to get a Remote Raid Pass explained","subtitle":"Remote Raiding allows you to battle in raids at home.","comments":0,"image":"2020\/articles\/2020-04-15-14-30\/pokmon-go-remote-raids-header.jpg"},{"slug":"pokemon-go-master-league-recommendations-7002","title":"Pok\u00e9mon Go Master League team recommendations","subtitle":"The most effective creatures to compete when there's no CP cap.","comments":0,"image":"2020\/articles\/2020-03-02-12-00\/pokemon-go-master-league-recommendations-7002-1583150403815.jpg"},{"slug":"2020-04-09-go-battle-day-marill-event-rewards-pokemon-go-7002","title":"Pok\u00e9mon Go Marill Day event date, time and rewards explained","subtitle":"It's Marill's time to shine in Pok\u00e9mon Go!","comments":0,"image":"2020\/articles\/2020-04-09-14-53\/pokemon-go-marill-header.jpg"},{"slug":"2020-04-09-spring-event-research-tasks-pokemon-go-7002","title":"Spring event research tasks explained in Pok\u00e9mon Go","subtitle":"Everything you need to know about the Easter tasks in Pok\u00e9mon Go.","comments":0,"image":"2020\/articles\/2020-04-09-10-38\/pokemon-go-spring-event-header.jpg"},{"slug":"pokemon-go-spotlight-hour-featured-pokemon-bonus-7002","title":"Pok\u00e9mon Go Spotlight Hour: Featured Spotlight Hour Pok\u00e9mon and bonus explained","subtitle":"Everything you need to know about Spotlight Hour in Pok\u00e9mon Go. ","comments":0,"image":"2020\/articles\/2020-04-07-11-17\/pkm-go-spotlight-header.jpg"},{"slug":"pokemon-go-promo-codes-list-how-to-redeem-ios-android-4819","title":"Pok\u00e9mon Go Promo Codes list, and how to redeem codes from giveaways and promos","subtitle":"How Promo Codes work, and where to get them from.","comments":0,"image":"2020\/articles\/2020-04-07-09-12\/pokemon-go-promo-codes-how-to-redeem-ios-android-4819-1586247168823.jpg"},{"slug":"2019-07-02-pokemon-go-spinda-forms-5392","title":"Pok\u00e9mon Go Spinda quest this month explained, plus all Spinda forms listed","subtitle":"How to catch the elusive Spinda in Pok\u00e9mon Go.","comments":1,"image":"2018\/articles\/2018-08-02-09-12\/pokemon-go-spinda-forms-5392-1533197568823.jpg"},{"slug":"2019-06-05-pokemon-go-field-research-tasks-special-research-breakthroughs-6002","title":"Pok\u00e9mon Go April Field Research tasks and their rewards explained","subtitle":"All Field Research tasks listed, plus Special Research and Research Breakthroughs work in Pok\u00e9mon Go.","comments":2,"image":"2019\/articles\/2019-06-05-00-05\/pokemon-go-field-research-tasks-special-research-breakthroughs-6002-1559689515256.jpg"},{"slug":"2020-04-15-heres-how-pokemon-gos-remote-raiding-will-work","title":"Here's how Pok\u00e9mon Go's remote raiding will work","subtitle":"Daily research and remote Pok\u00e9Stop spins, and more.","comments":4,"image":"2020\/articles\/2020-04-15-14-29\/-1586957395446.jpg"}],
+							lang: {
+								advertisement: "Advertisement",
+								related: "Related"
+							},
+						});
+									});
+
+			</script>
+								<script>
+							function checkBBVMS() {
+								function youtube_parser(url){
+									var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#\&\?]*).*/;
+									var match = url.match(regExp);
+									return (match&&match[7].length==11)? match[7] : false;
+								}
+
+								jQuery('article iframe').each(function(){
+									src = jQuery(this).attr('src');
+									if(src) {
+										check_yt = youtube_parser(src);
+										if(check_yt){
+											jQuery(this).attr('id', 'yt-' + check_yt);
+											jQuery.getJSON( "https://gamernetwork.bbvms.com/json/search?query=%22" + check_yt + "%22", function( data ) {
+												if(data['items'][0]) {
+													replace_yt = check_yt;
+													if(data['items'][0]['youtubeImportId_string']) {
+														replace_yt = data['items'][0]['youtubeImportId_string'];
+													}
+													if(data['items'][0]['YouTube_id_string']) {
+														replace_yt = data['items'][0]['YouTube_id_string'];
+													}
+													yt_video_wrapper = jQuery('#yt-' + replace_yt).parent().parent().parent();
+													jQuery('> div', yt_video_wrapper).append('<div class="bb_wrapper"><script type="text/javascript" src="//gamernetwork.bbvms.com/p/eurogamer/c/' + data['items'][0]['id'] + '.js" async="true"><\/script></div>');
+													jQuery('.video-container', yt_video_wrapper).remove();
+													jQuery('.like-and-subscribe', yt_video_wrapper).html('<a href="https://www.youtube.com/watch?v=' + replace_yt + '" class="button wide" target="_blank" onclick="ga(\'send\',\'event\',\'Video\',\'Click YT Link\',\'' + replace_yt + '\')">Watch on YouTube</a>');
+												};
+											});
+										}
+									}
+								});
+							}
+						</script>
+					
+								<script src="https://cdn.cookielaw.org/consent/b09f044e-6444-4266-8ca8-4258e6c31748.js" type="text/javascript" charset="UTF-8"></script>
+			<script type="text/javascript">
+				function loadIframes(){
+					var iframes = $("iframe[data-src]");
+					$.each(iframes,function() {
+						var iframe = $(this);
+						iframe.attr("src", iframe.attr("data-src"));
+					});
+				}
+
+				function showOneTrustPlaceholders() {
+					if (window.OneTrustPlaceholdersDone) return;
+					var elements = document.querySelectorAll('.onetrust-placeholder');
+					for (var i = 0; i < elements.length; i ++) {
+						var element = elements[i];
+						element.style.display = '';
+					}
+					window.OneTrustPlaceholdersDone = true;
+				}
+
+				function removeOneTrustPlaceholders(type) {
+					var identifier = '.onetrust-placeholder';
+					identifier += type ? '[data-type="' + type + '"]' : '';
+					var elements = document.querySelectorAll(identifier);
+					for (var i = 0; i < elements.length; i ++) {
+						var element = elements[i];
+						element.remove();
+					}
+				}
+
+				function OptanonWrapper() {
+					// Run performance
+					if(OptanonActiveGroups.match(/,2,/)){
+						if (typeof appendComscore == 'function') {
+							appendComscore();
+						}
+						if (typeof runMormont == 'function' && typeof mormont !== 'undefined' && !window.mormontDone) {
+							runMormont();
+						}
+						if (typeof gaWrapper == 'function') {
+							gaWrapper();
+						}
+					} else {
+						if (typeof gaAnonWrapper == 'function') {
+							gaAnonWrapper();
+						}
+					}
+
+					// Run functional
+					if(OptanonActiveGroups.match(/,3,/)){
+						if (typeof appendSourcepoint == 'function') {
+							appendSourcepoint();
+						}
+						removeOneTrustPlaceholders('functional');
+					}
+
+					// Run targeting
+					if(OptanonActiveGroups.match(/,4,/)){
+						if (typeof doAdsOnConsent == 'function') {
+							doAdsOnConsent();
+						}
+						if (typeof loadIframes == 'function') {
+							loadIframes();
+						}
+						if (typeof checkBBVMS == 'function') {
+							checkBBVMS();
+						}
+						if (typeof appendFacebookSDK == 'function') {
+							appendFacebookSDK();
+						}
+						if (typeof appendVideoPlayer == 'function') {
+							appendVideoPlayer();
+						}
+						if (typeof appendTwitchPlayer == 'function') {
+							appendTwitchPlayer();
+						}
+						if (typeof appendVideoExplorer == 'function') {
+							appendVideoExplorer();
+						}
+						if (typeof appendGoogleCustomSearch == 'function') {
+							appendGoogleCustomSearch();
+						}
+						if (typeof appendYouTubeAPI == 'function') {
+							appendYouTubeAPI(); // Used for DFGraph
+						}
+						if (typeof appendAudienceProject == 'function') {
+							appendAudienceProject();
+						}
+						if (typeof dropCookies == 'function') {
+							dropCookies();
+						}
+						if (typeof appendInlineVideo == 'function') {
+							appendInlineVideo();
+						}
+						if (typeof appendCaptify == 'function') {
+							appendCaptify();
+						}
+						if (typeof appendSkimlinks == 'function') {
+							appendSkimlinks();
+						}
+						if (typeof appendGemius == 'function') {
+							appendGemius();
+						}
+						if (typeof appendBBElements == 'function') {
+							appendBBElements();
+						}
+						removeOneTrustPlaceholders('targeting');
+					}
+
+					showOneTrustPlaceholders();
+				}
+			</script>
+			
+
+		</div></body></html>
