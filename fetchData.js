@@ -13,7 +13,9 @@ const sources = [
 ];
 
 const runAsync = async () => {
-    const browser = await puppeteer.launch();
+    const browser = await puppeteer.launch(
+        
+    );
     const page = await browser.newPage();
 
     for(const source of sources){
